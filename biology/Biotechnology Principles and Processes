@@ -649,5 +649,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "60": {
+        "question": "The correct option is",
+        "a": "There are about 900 RE from 230 Strains",
+        "b": "There are about 230 RE from 900 Strains",
+        "c": "There are only 5 RE from 230 Strains",
+        "d": "Hind I is the first RE",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
