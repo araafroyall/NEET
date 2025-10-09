@@ -19,7 +19,7 @@
         "c": "The Techniques to alter the chemistry of DNA only",
         "d": "The Techniques to alter the chemistry of Proteins",
         "answer": "a",
-        "pyq": "no",
+        "pyq": "yes",
         "image": "none",
         "explain": "none"
     },
@@ -52,7 +52,7 @@
         "c": "undesirable genes along with the desired genes",
         "d": "none of them",
         "answer": "c",
-        "pyq": "no",
+        "pyq": "yes",
         "image": "none",
         "explain": "none"
     },
@@ -74,7 +74,7 @@
         "c": "Starter of Replication",
         "d": "Origin of Replication (ORI)",
         "answer": "d",
-        "pyq": "no",
+        "pyq": "yes",
         "image": "none",
         "explain": "none"
     },
@@ -85,7 +85,7 @@
         "c": "the alien piece of DNA has become part of a chromosome, which does Not have the ability to replicate",
         "d": "for the multiplication of any alien piece of DNA in an organism it needs to be a part of a chromosome",
         "answer": "c",
-        "pyq": "no",
+        "pyq": "yes",
         "image": "none",
         "explain": "none"
     },
