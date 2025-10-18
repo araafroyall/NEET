@@ -9,7 +9,7 @@
         "d": "Both Statements are False",
         "answer": "a",
         "pyq": "no",
-        "image": "none",
+        "image": "images",
         "explain": "none"
     },
     "2": {
@@ -31,7 +31,7 @@
         "d": "ambience in physical engineering processes",
         "answer": "d",
         "pyq": "no",
-        "image": "none",
+        "image": "number-3",
         "explain": "none"
     },
     "4": {
@@ -42,7 +42,7 @@
         "d": "Both Statements are False",
         "answer": "b",
         "pyq": "no",
-        "image": "none",
+        "image": "number-4",
         "explain": "Sexual reproduction permits variation"
     },
     "5": {
