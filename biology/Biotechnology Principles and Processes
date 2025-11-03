@@ -297,16 +297,5 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
-    },
-    "28": {
-        "question": "The Features of EcoRI, Except",
-        "a": "Roman Number indicates the order",
-        "b": "it Comes from Escherichia coli RY 13",
-        "c": "letter ‘R’ is derived from strain",
-        "d": "'co' is derived from genus",
-        "answer": "d",
-        "pyq": "no",
-        "image": "none",
-        "explain": "none"
     }
 }
