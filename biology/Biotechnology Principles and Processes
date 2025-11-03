@@ -297,5 +297,49 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "28": {
+        "question": "A : Endonucleases remove nucleotides from the ends of the DNA \n\nR : Restriction enzymes belong to a larger class of enzymes called nucleases",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "29": {
+        "question": "Select the InCorrect Options from\n\nA : Exonucleases remove nucleotides from the ends of the DNA \n\nB : Endonuclease functions by ‘inspecting’ the length of a DNA sequence\n\nC : Exonucleases cut each of the two strands of DNA\n\nD : Exonucleases cut one of the two strands of DNA",
+        "a": "D only",
+        "b": "B and D",
+        "c": "C and D",
+        "d": "A and C",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "30": {
+        "question": "EcoRI cut the DNA when GAATTC is present but between bases ",
+        "a": "G & A",
+        "b": "A & T",
+        "c": "G & C",
+        "d": "A & C",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "31": {
+        "question": "The Technology shown by Image",
+        "a": "DNA Recombinant Technology",
+        "b": "RNA Recombinant Technology",
+        "c": "DNA Mutation Technology",
+        "d": "RNA Replication Technology",
+        "answer": "a",
+        "pyq": "no",
+        "image": "prc1236",
+        "explain": "none"
     }
 }
