@@ -341,5 +341,27 @@
         "pyq": "no",
         "image": "prc1236",
         "explain": "none"
+    },
+    "32": {
+        "question": "Restriction endonuclease Cut DNA Bases in their",
+        "a": "Hydrogen Bond",
+        "b": "Di-Sulphide bond",
+        "c": "Sugar - Phosphate backbones",
+        "d": "C-C bond",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "33": {
+        "question": "S I : Each restriction endonuclease recognises a specific palindromic nucleotide sequence in the DNA\n\nS II : Palindrome word means if the same word is read in both directions, e.g., “MALAYALAM”.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
