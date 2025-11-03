@@ -385,5 +385,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "36": {
+        "question": "Restriction Enzyme cut DNA between",
+        "a": "same two bases on the opposite strands",
+        "b": "same two bases on the same strands",
+        "c": "opposite two bases on the same strands",
+        "d": "opposite two bases on the opposite strands",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
