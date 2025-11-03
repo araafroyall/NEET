@@ -22,5 +22,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "4": {
+        "question": "Which is Not a feature of Biotechnology ?",
+        "a": "in vitro fertilisation",
+        "b": "developing a DNA vaccine",
+        "c": "correcting a defective gene",
+        "d": "Deleting a gene",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
