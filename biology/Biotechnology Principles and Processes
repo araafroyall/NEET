@@ -253,5 +253,49 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "24": {
+        "question": "Besides Hind II, 900 restriction enzymes that have been isolated from\r\n",
+        "a": "230 strains",
+        "b": "320 strains",
+        "c": "2 strains",
+        "d": "Escherichia coli RY 13",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "25": {
+        "question": "Beside Hind II, There are Restriction Enzymes (RE)  ",
+        "a": "900 RE from 230 strains",
+        "b": "230 RE from 900 strains",
+        "c": "900 RE from 900 strains",
+        "d": "230 RE from 230 strains",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "26": {
+        "question": "Select the Correct Options \n\nThe convention for naming these enzymes (RE) \n\nI. First letter from the genus \n\nII. Second letter comes from the species of the prokaryotic cell\n\nIII. Second two letters come from the species of\r\nthe Eukaryotic cell\n\nIV. Second two letters come from the species of\r\nthe prokaryotic cell\n\nV. Roman numbers indicate the order",
+        "a": "I , IV , V are Correct",
+        "b": "II and III are InCorrect",
+        "c": "I & IV are correct",
+        "d": "I and IV are wrong",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "27": {
+        "question": "The Features of EcoRI, Except",
+        "a": "Roman Number indicates the order",
+        "b": "it Comes from Escherichia coli RY 13",
+        "c": "letter ‘R’ is derived from strain",
+        "d": "'co' is derived from genus",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
