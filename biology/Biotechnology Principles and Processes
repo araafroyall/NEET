@@ -209,5 +209,49 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "20": {
+        "question": "The three basic steps in genetically modifying an organism, Except",
+        "a": "identification of DNA with desirable genes",
+        "b": "introduction of the identified DNA into the host",
+        "c": "maintenance of DNA in the host and transfer to progeny",
+        "d": "culturing the DNA at large scale",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "21": {
+        "question": "Two enzymes responsible for restricting the growth of bacteriophage in Escherichia coli were",
+        "a": "1st added methyl groups to DNA, 2nd cut DNA",
+        "b": "1st added methyl groups to RNA, 2nd cut RNA",
+        "c": "Endonuclease , Exonuclease",
+        "d": "Antibiotic Resistance , DNA Ligase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "22": {
+        "question": "Hind II always cut DNA molecules at a particular point by recognising a specific sequence of ",
+        "a": "6 BP",
+        "b": "10 BP",
+        "c": "8 BP",
+        "d": "12 BP",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "23": {
+        "question": "The first restriction endonuclease",
+        "a": "Hind I",
+        "b": "Hindi II",
+        "c": "EColi",
+        "d": "Cla I",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
