@@ -33,5 +33,181 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "4": {
+        "question": "Genetic engineering is the Techniques to alter the chemistry of",
+        "a": "DNA and RNA",
+        "b": "RNA only",
+        "c": "DNA only",
+        "d": "Proteins",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "Which is NOT a feature of Bioprocess Engineering ?",
+        "a": "Maintenance of sterile (microbial contamination-free)",
+        "b": "It is a Physical Process",
+        "c": "growth of only the desired microbe\/eukaryotic cell",
+        "d": "making products like antibiotics, vaccines, enzymes, etc.",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "it is a chemical process"
+    },
+    "6": {
+        "question": "S I : Asexual reproduction preserves the genetic information\n\nS II : Sexual reproduction Inhibits variation",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "Traditional hybridisation procedures often lead to inclusion and multiplication of",
+        "a": "undesirable genes along with the desired genes",
+        "b": "undesirable genes only",
+        "c": "desired genes only",
+        "d": "none from the options",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "Which Allow to isolate and introduce only one or a set of desirable genes without introducing undesirable genes ?",
+        "a": "DNA Replication",
+        "b": "DNA Mutation",
+        "c": "DNA Recombinant Technology",
+        "d": "RNA Recombinant Technology",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "Select the InCorrect Options Related to a piece of DNA when transferred into an alien organism \n\nA : It would not be able to multiply itself\n\nB : when it gets integrated into the genome of the recipient, it may multiply\n\nC : It does not inherited along with the host DNA.\n\nD : when it is linked with the origin of replication, it can replicate and multiply itself",
+        "a": "A & B",
+        "b": "B & C",
+        "c": "C only",
+        "d": "D & A",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "S I : For the multiplication of an alien piece of DNA, it needs to be a part of a chromosome(s).\n\nS II : Chromosome has the ability to replicate",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "The first recombinant DNA emerged from the possibility of linking a gene encoding antibiotic resistance with",
+        "a": "a native plasmid",
+        "b": "DNA polymer",
+        "c": "Bacteriophage",
+        "d": "E Coli",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "Which is NOT a feature of Plasmid ?",
+        "a": "single stranded",
+        "b": "double stranded",
+        "c": "autonomously replicating",
+        "d": "circular extra-chromosomal DNA of Salmonella typhimurium",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "The first gene which was responsible for conferring antibiotic resistance was isolated from ",
+        "a": "a piece of DNA from a plasmid",
+        "b": "a piece of DNA from a Ecoli",
+        "c": "a piece of RNA from a plasmid",
+        "d": "a piece of RNA from a Ecoli",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "14": {
+        "question": "The first recombinant DNA encoding antibiotic resistance was accomplished by",
+        "a": "Stanley Cohen and Herbert Boyer",
+        "b": "Ernst chain and Howard florey",
+        "c": "Ernst chain and Herbert Boyer",
+        "d": "Stanley Cohen and Howard florey",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "15": {
+        "question": "The cutting of DNA at specific locations by molecular scissors :- ",
+        "a": "DNA Cutter",
+        "b": "Restriction Enzymes",
+        "c": "Exonuclease",
+        "d": "Endonuclease",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "16": {
+        "question": "S I : The cut piece of DNA was linked with the plasmid DNA\n\nS II : Plasmid DNA act as vectors to transfer the piece of DNA",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "17": {
+        "question": "The linking of gene became possible with the enzyme ",
+        "a": "Exonuclease",
+        "b": "Endonuclease",
+        "c": "RNA ligase",
+        "d": " DNA ligase",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "18": {
+        "question": "A : DNA ligase, which acts on cut DNA molecules and detech their ends. \n\nR : This makes a new combination of circular autonomously replicating DNA created in vitro and is known as recombinant RNA.",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "Both are False",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "19": {
+        "question": "When Recombinant DNA is transferred into Escherichia coli, it could replicate using the enzyme of ",
+        "a": "Host’s DNA polymerase",
+        "b": "Vector DNA polymerase",
+        "c": "Vector RNA polymerase",
+        "d": "Host’s RNA polymerase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
