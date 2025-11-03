@@ -376,7 +376,7 @@
         "explain": "none"
     },
     "35": {
-        "question": "SI : Tge stickiness of DNA ends facilitates the action of the enzyme RNA ligase.\n\nS II : Restriction enzymes cut the strand of DNA a little away from the centre of the palindrome sites",
+        "question": "SI : The stickiness of DNA ends facilitates the action of the enzyme RNA ligase.\n\nS II : Restriction enzymes cut the strand of DNA a little away from the centre of the palindrome sites",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
         "c": "Statement I is False & Statement II is True",
