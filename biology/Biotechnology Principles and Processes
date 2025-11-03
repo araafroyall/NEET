@@ -1,4 +1,26 @@
 {
     "name": "Biotech Principle and Process",
-    "number": "28"
+    "number": "28",
+    "2": {
+        "question": "A : Biotechnology deals with techniques of using live organisms or enzymes from organisms to produce products and processes useful to humans.\n\nR : making curd, bread or wine, which are all microbe-mediated processes, could also be thought as a form of biotechnology.",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "S I : According to EFB - The integration of natural science and organisms, cells, parts thereof, and molecular analogues for products and services\n\nS II : As per European Federation of Biotechnology it encompasses both traditional view and modern molecular biotechnology",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
