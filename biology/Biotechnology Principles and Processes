@@ -134,11 +134,11 @@
         "explain": "none"
     },
     "13": {
-        "question": "The first gene which was responsible for conferring antibiotic resistance was isolated from ",
-        "a": "a piece of DNA from a plasmid",
-        "b": "a piece of DNA from a Ecoli",
-        "c": "a piece of RNA from a plasmid",
-        "d": "a piece of RNA from a Ecoli",
+        "question": "The first gene which was responsible for conferring antibiotic resistance was isolated from a piece of",
+        "a": "DNA from a plasmid",
+        "b": "DNA from a Ecoli",
+        "c": "RNA from a plasmid",
+        "d": "RNA from a Ecoli",
         "answer": "a",
         "pyq": "no",
         "image": "none",
@@ -277,7 +277,7 @@
         "explain": "none"
     },
     "26": {
-        "question": "Select the Correct Options \n\nThe convention for naming these enzymes (RE) \n\nI. First letter from the genus \n\nII. Second letter comes from the species of the prokaryotic cell\n\nIII. Second two letters come from the species of\r\nthe Eukaryotic cell\n\nIV. Second two letters come from the species of\r\nthe prokaryotic cell\n\nV. Roman numbers indicate the order",
+        "question": "Select the Correct Options \n\nThe convention for naming these enzymes (RE) \n\nI. First letter from the genus \n\nII. Second letter comes from the species of the prokaryotic cell\n\nIII. Second two letters come from the species of the Eukaryotic cell\n\nIV. Second two letters come from the species of the prokaryotic cell\n\nV. Roman numbers indicate the order",
         "a": "I , IV , V are Correct",
         "b": "II and III are InCorrect",
         "c": "I & IV are correct",
