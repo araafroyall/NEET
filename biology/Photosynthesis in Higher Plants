@@ -1,4 +1,125 @@
 {
     "name": "Photosynthesis in Higher Plants",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "The Feature which is Not Related to photosynthesis ?",
+        "a": "physico-chemical process",
+        "b": "photosynthesis is the basis of life on earth",
+        "c": "primary source of all food on earth",
+        "d": "it does not release oxygen",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "2": {
+        "question": "Which is required for photosynthesis",
+        "a": "Light , CO₂ and water",
+        "b": "Light and water",
+        "c": "CO₂ and water",
+        "d": "Light and CO₂ ",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "photosynthesis occurred only in the green parts of the leaves in the presence of light is tested by the presence of",
+        "a": "starch",
+        "b": "glucose",
+        "c": "fructose",
+        "d": "none",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "A part of a leaf is in a test tube with KOH soaked cotton which absorbs",
+        "a": "CO₂",
+        "b": "O₂",
+        "c": "HCO₃",
+        "d": "H₂O",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "Half of the leaf is placed outside in sunlight and half in KOH soaked cotton Then tested",
+        "a": "The outside part of the leaf will be starch positive",
+        "b": "The inside part of the leaf will be starch positive",
+        "c": "both parts will be starch negative",
+        "d": "both parts will be starch positive",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "6": {
+        "question": "Which experiment Shows that CO₂ was required for photosynthesis ?",
+        "a": "soaked cotton KOH",
+        "b": "Mint Plant Experiment",
+        "c": "Prism experiment",
+        "d": "Joseph Priestley experiment",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "Plants restore to the air whatever breathing animals and burning candles remove was given by",
+        "a": "Joseph Priestley",
+        "b": "Jan Ingenhousz",
+        "c": "Julius von Sachs",
+        "d": "Cornelius van Niel ",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "Select the InCorrect Options for Joseph Priestley Experiment or theory\n\nA : revealed the role of air in the growth of green plants.\n\nB : a candle burning in a closed bell jar - never gets extinguished\n\nC : a mouse would soon suffocate in a closed space\n\nD : a burning candle or an animal that breathe or damage the air\n\nE : when placed a mint plant in bell jar, mouse stayed alive and the candle continued to burn.",
+        "a": "D",
+        "b": "C",
+        "c": "B ",
+        "d": "A and E",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "S I : Jan Ingenhousz uses Joseph Priestley setup once in light and once in dark\n\nS II : He concluded that sunlight is essential for the plant process that somehow purifies that air",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "Who experimented That in bright sunlight, small bubbles were formed around the green parts while in the dark they did not.",
+        "a": "Cornelius van Niel",
+        "b": "Julius von Sachs",
+        "c": "Joseph Priestley",
+        "d": "Jan Ingenhousz ",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "Who showed that it is only the green part of the plants that could release oxygen.",
+        "a": "Jan Ingenhousz ",
+        "b": "Joseph Priestley",
+        "c": "Julius von Sachs ",
+        "d": "Cornelius van Niel ",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
