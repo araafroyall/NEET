@@ -429,5 +429,104 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "40": {
+        "question": "Separation and isolation of DNA fragments by",
+        "a": "PCR",
+        "b": "Southern Hybridization & Blotting",
+        "c": " Gel Electrophoresis",
+        "d": "Centrifugation",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "41": {
+        "question": "The Correct answer for Gel Electrophoresis are \n\nI. DNA (-ve) move towards Anode (+ve)\n\nII. It move to Cathode under an Electric Field\n\nIII. Used matrix is agarose, a natural polymer of sea weeds\n\nIV. The DNA fragments separate according to size\n\nV. Separate through sieving effect by the agarose gel",
+        "a": "Only II is wrong",
+        "b": "All are wrong",
+        "c": "I, II, and IV are wrong",
+        "d": "All are correct",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "42": {
+        "question": "The DNA fragments separates by Gel Electrophoresis as ",
+        "a": "The Larger the size the farther it move",
+        "b": "Its movement is independent of size",
+        "c": "Any size fragment moves together till end",
+        "d": "The smaller the size the farther it move",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "43": {
+        "question": "The separated DNA fragments can be visualised only after staining the DNA with a compound known as ",
+        "a": "Chilled Ethanol",
+        "b": "Ethidium Bromide",
+        "c": "Calcium Carbonate ",
+        "d": "Ribozyme",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "44": {
+        "question": "The Correct option for DNA in Gel Electrophoresis",
+        "a": "you can see pure DNA fragments in the visible light and without staining",
+        "b": "This DNA can be seen only after staining and in UV light",
+        "c": "This DNA can be seen after staining but without UV Rays",
+        "d": "You can see bright blue coloured bands of DNA in a ethidium bromide stained gel exposed to UV",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "45": {
+        "question": "After the Process of Gel Electrophoresis The Visible DNA color will be ",
+        "a": "Bright Orange",
+        "b": "Bright Blue",
+        "c": "Bright Red",
+        "d": "Green",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "46": {
+        "question": "Elution is",
+        "a": "Stained DNA",
+        "b": "Mixture of Bands of DNA in Gel Electrophoresis",
+        "c": "The separated bands of DNA are putted kn agarose gel",
+        "d": "The separated bands of DNA are cut out from the agarose gel and extracted from the gel piece",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "47": {
+        "question": "In Gel Electrophoresis",
+        "a": "DNA Fragments are Loaded towards Anode side",
+        "b": "Lane 1 in Undigested",
+        "c": "DNA fragments moves to cathode (-ve)",
+        "d": "larger size of fragments move far from cathode",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "48": {
+        "question": "The Correct optipns In Gel Electrophoresis are , except ",
+        "a": "Lane 2 to 4 are digestive",
+        "b": "DNA Loaded towards Cathode(+ve) and move to Anode(-ve)",
+        "c": "bright orange coloured bands of DNA forms in a ethidium bromide stained gel exposed to UV light",
+        "d": "It separate DNA fragments according to their charges",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
