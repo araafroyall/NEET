@@ -528,5 +528,181 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
-    }
+    },
+    "49": {
+        "question": "Which of the Following have the ability to replicate within bacterial cells independent of the control of chromosomal DNA",
+        "a": "Plasmids and Bacteriophages",
+        "b": "Plasmid Only",
+        "c": "Bacteriophages Only",
+        "d": "Ecoli & Salmonella typhimurium",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "50": {
+        "question": "S I : Vectors help easy linking of foreign DNA and selection of recombinants from non-recombinants\n\nS II : Bacteriophages have very high copy numbers of their genome within the bacterial cells",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "51": {
+        "question": "The Start point of Replication & Sequence which is also\r\nresponsible for controlling the copy number is",
+        "a": "Selectable marker",
+        "b": "Cloning sites",
+        "c": "Origin of replication (ori)",
+        "d": "Antibiotic Resistance genes",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "52": {
+        "question": "Which helps in identifying and eliminating non-transformants from transformants",
+        "a": "Selectable marker",
+        "b": "Cloning sites",
+        "c": "Origin of replication (ori)",
+        "d": "Antibiotic Resistance genes",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "53": {
+        "question": "S I : Transformation is a procedure through which a piece of DNA is introduced in a host bacterium\n\nS II : The normal E. coli cells do not carry resistance against any antibiotics.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "54": {
+        "question": "A : The normal E. coli cells carry resistance against any of these antibiotics.\n\nR : Normally, the genes encoding resistance to antibiotics such as ampicillin, chloramphenicol, tetracycline or kanamycin",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "55": {
+        "question": "The Features of Cloning Vector Except",
+        "a": "Presence of only one Recognition sites",
+        "b": "have ORI site",
+        "c": "Presence of more than one recognition sites",
+        "d": "have Selectable Markers",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "56": {
+        "question": "S I :  The ligation of alien DNA is carried out at a restriction site present in one of the two antibiotic resistance genes\n\nS II : rop does NOT codes for the proteins involved in the replication of the plasmid.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "56": {
+        "question": "If you ligate a foreign DNA at the BamH I site of tetracycline resistance gene in the vector pBR322\r\nThe recombinant plasmids will lose _______ due to insertion of foreign DNA",
+        "a": "Ampicillin Resistance",
+        "b": "All the Antibiotic ",
+        "c": "tetracycline resistance",
+        "d": "no Antibiotic Resistance",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "58": {
+        "question": "The Recombinant DNA can be selected out from Non-Recombinants by placing on ",
+        "a": "Ampicillin Containing Medium",
+        "b": "Both Medium (A & T)",
+        "c": "Tetracycline Containing Medium",
+        "d": "UV light",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "59": {
+        "question": "The Transformants DNA can be selected out from Non-Transformants by placing on ",
+        "a": "Ampicillin Containing Medium",
+        "b": "Both Medium (A & T)",
+        "c": "Tetracycline Containing Medium",
+        "d": "UV light",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "60": {
+        "question": "For Ampicillin Containing Medium & Tetracycline Containing Medium the correct option is ",
+        "a": "Non-Recombinants can grow on both the medium",
+        "b": "Only Recombinant will grow on Tetracycline",
+        "c": "Non-Recombinant will grow only on Ampicillin",
+        "d": "Transformants can be grown on Tetracycline",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "61": {
+        "question": "S I : Non-Recombinants can grow on both medium (Ampicillin & Tetracycline)\n\nS II : Recombinants & Transformant can grow only on Ampicillin",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "62": {
+        "question": "S I : Two of them antibiotic resistance gene helps in selecting the transformants\n\nS II : whereas the other antibiotic resistance\rgene gets ‘inactivated due to insertion’ of alien DNA, and helps in selection of Non-recombinants.\r",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "63": {
+        "question": "Which statement is wrong",
+        "a": "Transformants can grow on Ampicillin",
+        "b": "Recombinants can grow on both Antibiotics",
+        "c": "Recombinants can grow on Ampicillin",
+        "d": "Non-Recombinants can grow on both Antibiotics",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "64": {
+        "question": "A : Selection of recombinants due to inactivation of antibiotics is a cumbersome procedure\n\nR : it requires simultaneous plating on two plates having different antibiotics",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+   }
 }
