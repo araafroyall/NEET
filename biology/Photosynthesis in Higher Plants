@@ -101,7 +101,7 @@
         "explain": "none"
     },
     "10": {
-        "question": "Who experimented with an aquatic plant and observed bubbles forming in sunlight but not in darkness?.",
+        "question": "Who experimented That in bright sunlight, small bubbles were formed around the green parts while in the dark they did not.",
         "a": "Cornelius van Niel",
         "b": "Julius von Sachs",
         "c": "Joseph Priestley",
@@ -112,12 +112,45 @@
         "explain": "none"
     },
     "11": {
-        "question": "Who showed that it is only the green part of the plants that could release oxygen ",
+        "question": "Who showed that it is only the green part of the plants that could release oxygen.",
         "a": "Jan Ingenhousz ",
         "b": "Joseph Priestley",
         "c": "Julius von Sachs ",
         "d": "Cornelius van Niel ",
         "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "Select the Correct Options from\n\nI. Julius von Sachs provided evidence for production of glucose when plants grow\n\nII. Glucose is usually stored as glycogen\n\nIII. Glucose is usually stored as starch\n\nIV. chlorophyll is located in chloroplasts\n\nV. the green parts in plants is where glucose is made",
+        "a": "Only III wrong",
+        "b": "Only II wrong",
+        "c": "I and V are wrong",
+        "d": "II and IV are wrong",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "A : T.W. Engelmann used Cladophora and aerobic bacteria in his experiment\n\nR : The bacteria were used to detect the sites of O₂ evolution.",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "14": {
+        "question": "T.W. Engelmann split light into its spectral components using a prism and found that",
+        "a": "Bacteria accumulated in the green region",
+        "b": "Bacteria accumulated in blue and red regions",
+        "c": "Bacteria were evenly distributed in all regions",
+        "d": "No accumulation of bacteria was observed",
+        "answer": "b",
         "pyq": "no",
         "image": "none",
         "explain": "none"
