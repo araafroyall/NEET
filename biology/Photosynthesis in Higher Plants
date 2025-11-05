@@ -154,5 +154,52 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
-    }
+    },
+"15": {
+    "question": "Who studied purple and green bacteria and demonstrated that photosynthesis is a light-dependent reaction?",
+    "a": "Cornelius van Niel",
+    "b": "T.W. Engelmann",
+    "c": "Jan Ingenhousz",
+    "d": "Julius von Sachs",
+    "answer": "a",
+    "pyq": "no",
+    "image": "none",
+    "explain": "none"
+},
+
+"16": {
+    "question": "Cornelius van Niel showed that hydrogen from an oxidisable compound reduces",
+    "a": "CO₂ to carbohydrates",
+    "b": "O₂ to water",
+    "c": "glucose to CO₂",
+    "d": "ATP to ADP",
+    "answer": "a",
+    "pyq": "no",
+    "image": "none",
+    "explain": "none"
+},
+
+"17": {
+    "question": "When H₂S acts as hydrogen donor in purple and green sulphur bacteria, the oxidation product is",
+    "a": "Sulphur or sulphate",
+    "b": "Oxygen",
+    "c": "Carbon dioxide",
+    "d": "Hydrogen",
+    "answer": "a",
+    "pyq": "no",
+    "image": "none",
+    "explain": "none"
+},
+
+"18": {
+    "question": "A : O₂ evolved by green plants comes from H₂O not CO₂\n\nR : This was proved later by radioisotopic techniques",
+    "a": "Both A & R is Correct + R is Correct Explanation of A",
+    "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+    "c": "A is True & R is False",
+    "d": "A is False & R is True",
+    "answer": "a",
+    "pyq": "no",
+    "image": "none",
+    "explain": "none"
+}
 }
