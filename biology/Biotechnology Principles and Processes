@@ -396,5 +396,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "37": {
+        "question": "On Cutting a DNA by Restriction enzymes it leaves overhanging stretches called sticky ends because they form",
+        "a": "Hydrogen bonds",
+        "b": "Di-Sulphide bonds",
+        "c": "C-C bond",
+        "d": "C-N Bonds",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
