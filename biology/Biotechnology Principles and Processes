@@ -704,5 +704,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
-   }
+    },
+    "65": {
+        "question": "Alternative selectable Markers which differentiate recombinants from non-recombinants on the basis of their ability ",
+        "a": "to Increase pH and Temperature",
+        "b": "to Decrease Temperature",
+        "c": "to produce colour in the presence of a chromogenicsubstrate",
+        "d": "to change pH value",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
