@@ -407,5 +407,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "38": {
+        "question": "A : the resultant DNA fragments can be joined together (end-to-end) using DNA ligases\n\nR : When DNA is cut by the same restriction the resultant DNA fragments have the same kind of ‘sticky-ends’ ",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "39": {
+        "question": "S I : unless one cuts the vector and the source DNA with the same restriction enzyme, the recombinant vector molecule cannot be created.\n\nS II : Restriction endonucleases are used in genetic engineering to form ‘recombinant’ molecules of DNA, which are composed of DNA from different sources\/genomes.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
