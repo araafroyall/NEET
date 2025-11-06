@@ -715,5 +715,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "66": {
+        "question": "A : DNA cannot pass through cell membranes.\n\nR : DNA is a hydrophilic molecule",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "67": {
+        "question": "By Which method cells are forced to take up the Recombinant DNA , except\n\nA : divalent cation\n\nB : ice > 42⁰C > ice\n\nC : 42⁰C > ice > 42⁰C\n\nD :  micro-injection\n\nE : biolistics or gene gun",
+        "a": "A only",
+        "b": "B and D",
+        "c": "C only",
+        "d": "D and E",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
