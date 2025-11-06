@@ -737,5 +737,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "68": {
+        "question": "Recombinant DNA is directly injected into the nucleus of an animal cell by",
+        "a": "Micro-injection",
+        "b": "Macro - injection",
+        "c": "biolistic or gene gun",
+        "d": "divalent cation",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "69": {
+        "question": "In Biolistics or gene gun cells are bombarded with high velocity micro-particles (coated with DNA) of",
+        "a": "Gold or tungsten",
+        "b": "divalent cation",
+        "c": "Tungsten only",
+        "d": "Ca⁺⁺ and Gold",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
