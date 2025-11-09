@@ -825,5 +825,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "76": {
+        "question": "The addition of chilled ethanol precipitates out",
+        "a": "RNA",
+        "b": "DNA",
+        "c": "Proteins",
+        "d": "Probe",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
