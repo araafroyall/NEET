@@ -814,5 +814,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "75": {
+        "question": "The InCorrect option for : break the cell and pick only DNA for Recombinant",
+        "a": "RNA can be removed by treatment with ribonuclease ",
+        "b": "Proteins can be removed by treatment with protease",
+        "c": "DNA can be removed by treatment with ribonuclease",
+        "d": "DNA is enclosed within the membranes, we have to break the cell open to release DNA along with other macromolecules",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
