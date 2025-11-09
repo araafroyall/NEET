@@ -836,5 +836,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "77": {
+        "question": "Which is employed to check the progression of a restriction enzyme digestion",
+        "a": "Agarose gel electrophoresis",
+        "b": "DNA Recombinant Technology",
+        "c": "PCR",
+        "d": "RNA Recombinant Technology",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "78": {
+        "question": "S I : DNA is a -ve charged and it moves towards the +ve electrode (anode)\n\nS II : Restriction enzyme digestions are performed by incubating purified RNA molecules with the restriction enzyme, at the optimal conditions",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
