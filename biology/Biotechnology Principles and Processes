@@ -880,5 +880,38 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "81": {
+        "question": "DNA amplified 1B times Using PCR in ",
+        "a": "30 cycles",
+        "b": "40 cycles",
+        "c": "42 Cycles",
+        "d": "90 Cycles",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "82": {
+        "question": "Small chemically synthesised oligonucleotides that are complementary to the regions of DNA are known as",
+        "a": "Probe",
+        "b": "Primers",
+        "c": "Polymerase",
+        "d": "",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "83": {
+        "question": "During the process of PCR, if a very high temperature is not maintained in the beginning, then which step of PCR will be affected first?",
+        "a": "Denaturation",
+        "b": "Extension",
+        "c": "Ligation",
+        "d": "Annealing",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
