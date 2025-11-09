@@ -803,5 +803,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "74": {
+        "question": "S I : In order to cut the DNA , it needs to be in pure form\n\nS II : nucleic acid is the genetic material of all organisms without exception",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
