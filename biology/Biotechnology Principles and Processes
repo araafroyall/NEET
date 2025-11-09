@@ -792,5 +792,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "73": {
+        "question": "Recombinant DNA technology involves several steps in specific sequence \n\nI. Isolation of DNA\n\nII. fragmentation of DNA by restriction endonucleases\n\nIII. isolation of a desired DNA fragment\n\nIV. ligation of the DNA fragment into a vector,\n\nV. transferring the recombinant DNA into the host\n\nVI. culturing the host cells",
+        "a": "All steps are correct and in sequence",
+        "b": "All steps are correct but not in sequence",
+        "c": "few of them are Incorrect but sequenced",
+        "d": "none of them are correct",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
