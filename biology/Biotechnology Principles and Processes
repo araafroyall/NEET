@@ -770,5 +770,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "71": {
+        "question": "which transfers the recombinant DNA into the host by infecting the cell ?",
+        "a": "disarmed pathogen vectors",
+        "b": "Ca⁺⁺",
+        "c": "biolistic or gene gun",
+        "d": "Gold or tungsten",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
