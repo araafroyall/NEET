@@ -913,5 +913,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "84": {
+        "question": "Which of the following is a correct sequence of steps in a PCR Polymerase Chain Reaction",
+        "a": "Denaturation, Annealing, Extension",
+        "b": "Denaturation, Extension, Annealing",
+        "c": "Extension, Denaturation, Annealing",
+        "d": "Annealing, Denaturation, Extension",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
     }
 }
