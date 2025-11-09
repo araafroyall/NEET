@@ -858,5 +858,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "79": {
+        "question": "Agarose gel electrophoresis is employed to check the progression of a restriction enzyme digestion as well as ",
+        "a": "Vector DNA",
+        "b": "Vector RNA",
+        "c": "Recombinant DNA",
+        "d": "Recombinant RNA",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "80": {
+        "question": "Select The Incorrect Option : \n\nPCR stands for Polymerase Chain Reaction in which",
+        "a": "multiple copies of the gene (or DNA) of interest is synthesised",
+        "b": "gene synthesised in vitro",
+        "c": "gene synthesised using two sets of primers",
+        "d": "gene synthesised using one set of primers",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
