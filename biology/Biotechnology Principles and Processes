@@ -519,12 +519,12 @@
         "explain": "none"
     },
     "48": {
-        "question": "The Correct optipns In Gel Electrophoresis are , except ",
-        "a": "Lane 2 to 4 are digestive",
-        "b": "DNA Loaded towards Cathode(+ve) and move to Anode(-ve)",
-        "c": "bright orange coloured bands of DNA forms in a ethidium bromide stained gel exposed to UV light",
-        "d": "It separate DNA fragments according to their charges",
-        "answer": "d",
+        "question": "The Correct options In Gel Electrophoresis are , except ",
+        "a": "DNA Loaded towards Cathode(-ve) and moved to Anode(+ve)",
+        "b": "bright orange coloured bands of DNA forms in a ethidium bromide stained gel exposed to UV light",
+        "c": "It separate DNA fragments according to their charges",
+        "d": "Lane 2 to 4 are digestive",
+        "answer": "c",
         "pyq": "no",
         "image": "none",
         "explain": "none"
