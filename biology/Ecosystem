@@ -11,5 +11,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "2": {
+        "question": "The man-made ecosystems are",
+        "a": "Crop fields and aquarium",
+        "b": "Forest and grassland",
+        "c": "pond and lake",
+        "d": "desert and wetland",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "The Incorrect Option is ",
+        "a": "Input - Productivity",
+        "b": "Output - Degradation and Energy loss",
+        "c": "Energy Transfer + Food web\/chain",
+        "d": "Cropland ecosystem - More Genetic Diversity",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
