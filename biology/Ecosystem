@@ -363,5 +363,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "34": {
+        "question": "Break down of complex organic matter into inorganic substances by the process of",
+        "a": "decomposition",
+        "b": "fragmentation",
+        "c": "degeneration",
+        "d": "regeneration",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
