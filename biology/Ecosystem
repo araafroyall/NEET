@@ -447,7 +447,7 @@
         "b": "Humification\nMineralisation",
         "c": "fragmentation\ncatabolism",
         "d": "Humification\nLeaching",
-        "answer": "",
+        "answer": "a",
         "pyq": "no",
         "image": "none",
         "explain": "none"
