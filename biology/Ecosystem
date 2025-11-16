@@ -288,12 +288,78 @@
         "explain": "none"
     },
     "27": {
-        "question": "The available biomass for the consumption to heterotrophs (herbiviores and decomposers)",
+        "question": "The available biomass for the consumption of heterotrophs (herbiviores and decomposers)",
         "a": "GPP",
         "b": "NPP",
         "c": "Secondary Productivity",
         "d": "Tertiary Productivity",
         "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "28": {
+        "question": "The rate of formation of new organic matter by consumers",
+        "a": "GPP",
+        "b": "NPP",
+        "c": "Secondary Productivity",
+        "d": "Tertiary Productivity",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "29": {
+        "question": "S I : Primary productivity does not depend on plant species inhabiting a particular area\n\nS II : Primary productivity is Constant in different types of ecosystems",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "30": {
+        "question": "Primary productivity Does not depends on the",
+        "a": "Variety of environmental factors",
+        "b": "Availability of nutrients",
+        "c": "Photosynthetic capacity of plants",
+        "d": "Shape of the water body",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "31": {
+        "question": "The annual net primary productivity of the whole biosphere is _________ of organic matter",
+        "a": "170 billion tons (dry weight)",
+        "b": "170 billion tons (wet weight)",
+        "c": "55 billion Tons (dry weight)",
+        "d": "55 billion Tons (wet weight)",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "32": {
+        "question": "The Incorrect Option related to Primary Productivity\n\n[ here B-Tons is (Billion Tons) ]",
+        "a": "Ocean - 55-B Tons",
+        "b": "Surface\/Land - 70% of 170 B-Tons (Annually)",
+        "c": "Total Productivity - 170 B-Tons",
+        "d": "Total Productivity - 120 B-Tons",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "33": {
+        "question": "The farmer’s ‘friend and Detritivores is",
+        "a": "Earthworm",
+        "b": "Leach",
+        "c": "Frog",
+        "d": "Snail",
+        "answer": "a",
         "pyq": "no",
         "image": "none",
         "explain": "none"
