@@ -1,4 +1,15 @@
 {
     "name": "Ecosystem",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "S I : Ecosystems is divided into terrestrial and aquatic\n\nS II : Interaction of biotic and abiotic components result in a physical structure that is characteristic for each type of ecosystem",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
