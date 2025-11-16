@@ -374,5 +374,71 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "35": {
+        "question": "Earthworm is the farmer’s friend. because they help in",
+        "a": "Breakdown of complex organic\r\nLoosening of the soil",
+        "b": "breakdown of complex organic only",
+        "c": "Loosening of the soil only",
+        "d": "Breakdown of complex organic\r\nbut not Loosening of the soil",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "36": {
+        "question": "Dead remains of animals and plants that serve as the raw material for decomposition are called:",
+        "a": "Detritus",
+        "b": "Litter",
+        "c": "Biomass",
+        "d": "Humus",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "37": {
+        "question": "Water-soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts in",
+        "a": "Catabolism",
+        "b": "Leaching",
+        "c": "Humification",
+        "d": "Fragmentation",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "38": {
+        "question": "Detritivores (e.g., earthworm) break down detritus into smaller particles by",
+        "a": "Catabolism",
+        "b": "Leaching",
+        "c": "Humification",
+        "d": "Fragmentation",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "39": {
+        "question": "Bacterial and fungal enzymes degrade detritus into simpler inorganic substances by",
+        "a": "Catabolism",
+        "b": "Mineralisation",
+        "c": "Leaching",
+        "d": "Fragmentation",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "40": {
+        "question": "Which enzymes degrade detritus into simpler inorganic substances in catabolism",
+        "a": "Baterial and Fungal",
+        "b": "Bacterial and Flagellar",
+        "c": "Fungal and Flagellar",
+        "d": "Baterial, Fungal and Flaggelar",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
