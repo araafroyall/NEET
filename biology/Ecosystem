@@ -440,5 +440,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "41": {
+        "question": "The steps in decomposition operate simultaneously on the detritus",
+        "a": "Leaching\nfragmentation\ncatabolism",
+        "b": "Humification\nMineralisation",
+        "c": "fragmentation\ncatabolism",
+        "d": "Humification\nLeaching",
+        "answer": "",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
