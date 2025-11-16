@@ -1,4 +1,235 @@
 {
     "name": "Breathing and Exchange of Gases",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "S I : oxygen is utilised indirectly breaking down simple molecules like glucose, amino acids, fatty acids, etc.\n\nS II : Carbon dioxide is also released during the catabolic reactions",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "2": {
+        "question": "S I : Process of exchange of O2 from the atmosphere with CO2 produced by the cells is called breathing, commonly known as respiration\n\nS II : Cells utilise oxygen for metabolism and produce energy along with substances like CO₂",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "Lower invertebrates, exchange O₂ with CO₂ by simple diffusion over their entire body surface are",
+        "a": "Sponges\nCoelenterates\nFlatworms",
+        "b": "Eartchworm\nInsect\nFrog",
+        "c": "Frog and Insect",
+        "d": "Amphibians\nReplites",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "Which have a network of tubes (tracheal tubes) to transport atmospheric air within the body",
+        "a": "Insects",
+        "b": "Frog",
+        "c": "Earthworm",
+        "d": "Fish",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "A : A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. \n\nR : Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "6": {
+        "question": "Which uses moist cuticle to transport atmospheric air within the body",
+        "a": "Earthworms",
+        "b": "frogs",
+        "c": "Insects",
+        "d": "Sponges",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "Special vascularised structures called gills (branchial respiration) are used by most of the",
+        "a": "Aquatic Arthropods and Molluscs",
+        "b": "Earthworm",
+        "c": "Insects",
+        "d": "Coelenterates",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "S I : vascularised bags called lungs (pulmonary respiration) are used by the terrestrial forms for the exchange of gases\n\nS II : amphibians, reptiles, birds and mammals respire through lungs.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "Amphibians like frogs can respire through their",
+        "a": "Moist skin (cutaneous respiration)",
+        "b": "Moist cuticle",
+        "c": "Network of Tubules",
+        "d": "Lungs",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "In these Matched items\n\nA : Frog - Moist Skin\n\nB : Earthworm - Moist cuticle\n\nC : Gills - branchial respiration\n\nD : Gills - Pulmonary respiration\n\nThe Correct Matched Options are ",
+        "a": "A & B",
+        "b": "B & D",
+        "c": "A only",
+        "d": "A , B & C",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "the common passage for food and air.",
+        "a": "pharynx",
+        "b": "larynx",
+        "c": "bronchi",
+        "d": "bronchiole",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "A cartilaginous box which helps in sound production",
+        "a": "pharynx",
+        "b": "larynx",
+        "c": "Tracheal tissue",
+        "d": "Cardiac Muscles of Trachea",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "In man and mammals, air passes from outside into the lungs through ",
+        "a": "nasal cavity > pharynx > larynx > trachea > bronchi > bronchioles > alveoli",
+        "b": "nasal cavity > pharynx > larynx > trachea >  bronchioles > bronchi > alveoli",
+        "c": "nasal cavity > larynx > pharynx > trachea > bronchioles > alveoli",
+        "d": "nasal cavity > larynx > pharynx > trachea > bronchi > alveoli",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "14": {
+        "question": "During swallowing, which structure covers the glottis to prevent food from entering the larynx?",
+        "a": "Epiglottis",
+        "b": "Soft palate",
+        "c": "Soft palate",
+        "d": "Uvula",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "15": {
+        "question": "At which vertebral level does the trachea divide into right and left primary bronchi?",
+        "a": "5th",
+        "b": "4th",
+        "c": "6th",
+        "d": "3rd",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "16": {
+        "question": "S I : Trachea is a straight tube extending up to the mid-thoracic cavity\n\nS II : The pharynx opens through the larynx region into the trachea",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "17": {
+        "question": "Each terminal bronchiole gives rise to a number of very thin, irregular-walled and vascularised bag-like structures called",
+        "a": "Alveoli",
+        "b": "Brochi",
+        "c": "Vascular Bag",
+        "d": "Pulmonary Bag",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "18": {
+        "question": "The incomplete cartilaginous rings are present Till",
+        "a": "Initial bronchioles",
+        "b": "Primary bronchi",
+        "c": "Alveoli",
+        "d": "Tracheae",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "19": {
+        "question": "S I : The branching network of bronchi, bronchioles and alveoli comprise the lungs\n\nS II : irregular-Thick and vascularised bag - alveoli.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "20": {
+        "question": "A : Lungs are covered by a double-layered pleura membrane\n\nR : Pleural fluid reduces friction on the lung surface",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "21": {
+        "question": "S I : The outer pleural membrane is in close contact with the thoracic\n\nS II : The inner pleural membrane is in contact with the lung surface",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
