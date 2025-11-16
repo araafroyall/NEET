@@ -451,5 +451,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "42": {
+        "question": "Which occur during decomposition in the soil",
+        "a": "Leaching\nfragmentation\ncatabolism",
+        "b": "Humification\nMineralisation",
+        "c": "fragmentation\ncatabolism",
+        "d": "Humification\nLeaching",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
