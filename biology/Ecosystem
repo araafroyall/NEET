@@ -409,12 +409,12 @@
         "explain": "none"
     },
     "38": {
-        "question": "Detritivores (e.g., earthworm) break down detritus into smaller particles by",
-        "a": "Catabolism",
-        "b": "Leaching",
-        "c": "Humification",
-        "d": "Fragmentation",
-        "answer": "d",
+        "question": "The breakdown of detritus into smaller particles by earthworm is a process called",
+        "a": "humification",
+        "b": "fragmentation",
+        "c": "mineralisation",
+        "d": "catabolism",
+        "answer": "b",
         "pyq": "no",
         "image": "none",
         "explain": "none"
