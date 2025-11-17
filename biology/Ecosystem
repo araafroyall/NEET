@@ -464,11 +464,11 @@
         "explain": "none"
     },
     "43": {
-        "question": "The following are the components of\n\nA : Productivity\n\nB : Decomposition\n\nC : Energy Flow\n\nD : Nutrient Cycle",
+        "question": "The components of Ecosystem are",
         "a": "Productivity           Decomposition\n\nEnergy Flow           Nutrient Cycle",
-        "b": "tesf",
-        "c": "test 2",
-        "d": "test 3",
+        "b": "Production             Decomposition\n\nEnergy Flow           Nutrient Cycle",
+        "c": "Production             Decomposition\n\nEnergy Flow           GPP",
+        "d": "Production             Decomposition\n\nEnergy Loss          GPP",
         "answer": "a",
         "pyq": "no",
         "image": "none",
