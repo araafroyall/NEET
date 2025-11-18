@@ -792,5 +792,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "73": {
+        "question": "The Correct option for Energy flow in",
+        "a": "Aquatic       - DFC\nTerrestrial   - GFC",
+        "b": "Aquatic       - GFC\nTerrestrial   - DFC",
+        "c": "Aquatic       - GFC\nTerrestrial   - DFC then GFC",
+        "d": "Aquatic       - DFC\nTerrestrial   - GFC then DFC",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "74": {
+        "question": "Which option is wrong",
+        "a": "DFC are prey to the GFC animals",
+        "b": "cockroaches, crows are omnivores.",
+        "c": "GFC is completely independent of DFC",
+        "d": "DFC may be connected with the GFC at some levels",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
