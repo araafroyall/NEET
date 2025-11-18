@@ -893,7 +893,7 @@
         "explain": "none"
     },
     "82": {
-        "question": "The number of trophic levels in a grazing food chain is limited due to the 10 per cent law of energy transfer. Does a similar limitation exist in a detritus food chain?",
+        "question": "Does detritus food chain follow 10% Energy transfer Law?",
         "a": "No, because decomposers recycle all energy without loss",
         "b": "Yes, because energy loss occurs at each step even in detritus food chains",
         "c": "No, because detritus food chains do not involve multiple trophic levels",
