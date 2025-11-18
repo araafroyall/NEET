@@ -814,5 +814,159 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "75": {
+        "question": "Organisms occupy specific positions in a community based on their feeding relationships. This position is called",
+        "a": "habitat",
+        "b": "trophic level",
+        "c": "ecological niche",
+        "d": "territory",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "76": {
+        "question": "Herbivores are",
+        "a": "Primary consumers at the second trophic level",
+        "b": "Secondary consumers at the first trophic level",
+        "c": "Producers at the third trophic level",
+        "d": "Decomposers at the second trophic level",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "77": {
+        "question": "Carnivores are",
+        "a": "Secondary consumers at the third trophic level",
+        "b": "Primary consumers at the second trophic level",
+        "c": "Producers at the first trophic level",
+        "d": "Decomposers at the fourth trophic level",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "78": {
+        "question": "Which are herballs or at second tropic level",
+        "a": "birds , fishes, wolf",
+        "b": "zooplankton , grasshopper , cow",
+        "c": "man, lion",
+        "d": "phytoplankton , grass\/tree",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "79": {
+        "question": "Which are carnivores or at third tropic level",
+        "a": "birds , fishes, wolf",
+        "b": "zooplankton , grasshopper , cow",
+        "c": "man, lion",
+        "d": "phytoplankton , grass\/tree",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "80": {
+        "question": "The mass or number of living organisms present at a trophic level at a given time is known as\n\n[ mass of living organism(biomass) or number in unit area]",
+        "a": "Productivity",
+        "b": "Standing crop",
+        "c": "Ecological niche",
+        "d": "Food chain length",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "81": {
+        "question": "Why is biomass measurement based on dry weight considered more accurate than fresh weight?",
+        "a": "Fresh weight contains variable amounts of water that can distort actual biomass",
+        "b": "Dry weight decreases the organic content",
+        "c": "Fresh weight is always higher than dry weight",
+        "d": "Dry weight includes water content, making it unreliable",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "82": {
+        "question": "The number of trophic levels in a grazing food chain is limited due to the 10 per cent law of energy transfer. Does a similar limitation exist in a detritus food chain?",
+        "a": "No, because decomposers recycle all energy without loss",
+        "b": "Yes, because energy loss occurs at each step even in detritus food chains",
+        "c": "No, because detritus food chains do not involve multiple trophic levels",
+        "d": "Yes, but only in aquatic ecosystems",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "83": {
+        "question": "Which of the following is NOT one of the commonly studied ecological pyramids?",
+        "a": "Pyramid of number",
+        "b": "Pyramid of biomass",
+        "c": "Pyramid of energy",
+        "d": "Pyramid of reproduction",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "84": {
+        "question": "Pyramids are always upright of",
+        "a": "Energy",
+        "b": "Biomass in land",
+        "c": "Biomass in sea",
+        "d": "Number",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "85": {
+        "question": "S I : Any calculations of energy content, biomass or numbers, has to include all organisms at that trophic level\n\nS II : the trophic level represents a functional level, not a species",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "86": {
+        "question": "Which organism can occupy more than one trophic level at the same time?",
+        "a": "Sparrow",
+        "b": "Cow",
+        "c": "Goat",
+        "d": "Deer",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "87": {
+        "question": "In an ecosystem where nearly 6 million plants are produced, the energy flow can support approximately",
+        "a": "Only three top carnivores",
+        "b": "Three million top carnivores",
+        "c": "Only primary producers",
+        "d": "An unlimited number of top carnivores",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "88": {
+        "question": "The correct Representation",
+        "a": "phytoplankton supports large standing crop of zooplankton",
+        "b": "zooplankton supports large standing crop of phytoplankton",
+        "c": "zooplankton supports large standing crop of producers",
+        "d": "It is upright pyramid",
+        "answer": "a",
+        "pyq": "no",
+        "image": "50689138",
+        "explain": "none"
     }
 }
