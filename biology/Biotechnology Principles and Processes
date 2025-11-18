@@ -897,7 +897,7 @@
         "a": "Probe",
         "b": "Primers",
         "c": "Polymerase",
-        "d": "",
+        "d": "dsDNA pieces",
         "answer": "b",
         "pyq": "no",
         "image": "none",
