@@ -11,5 +11,38 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "2": {
+        "question": "Which of the following drugs are commonly used in cancer therapy?",
+        "a": "AZT and cisplatin",
+        "b": "Taxol and cisplatin",
+        "c": "AZT and insulin",
+        "d": "Taxol and AZT",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "AZT (Azidothymidine) is primarily used in the treatment of",
+        "a": "Cancer",
+        "b": "Malaria",
+        "c": "AIDS",
+        "d": "Tuberculosis",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "CFCs (chlorofluorocarbons) are mainly responsible for ozone depletion in which layer of the atmosphere?",
+        "a": "Troposphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Thermosphere",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
