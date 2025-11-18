@@ -1,4 +1,15 @@
 {
     "name": "Some Basic Concept of Chemistry",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "Dalton's Atomic theory could not explain",
+        "a": "Law of Multiple proportion",
+        "b": "Law of gaseous volume",
+        "c": "Law of conservation of mass",
+        "d": "Law of constant proportion",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
