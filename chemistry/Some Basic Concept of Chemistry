@@ -44,5 +44,82 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "5": {
+        "question": "A compound is best defined as",
+        "a": "Same elements, any ratio",
+        "b": "Different elements, fixed ratio, not separable physically",
+        "c": "Mixed substances, separable",
+        "d": "Only metals combined",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "6": {
+        "question": "The ratio of elements in a compound is",
+        "a": "Random",
+        "b": "Variable",
+        "c": "Fixed, definite, and characteristic for that compound",
+        "d": "Same as in mixtures",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "Match the following\n\n1. Hydrogen          (a) Used as a fire extinguisher\n2. Oxygen              (b) Burns with a pop sound\n3. Water                 (c) Supports combustion",
+        "a": "1-b, 2-c, 3-a",
+        "b": "1-c, 2-a, 3-b",
+        "c": "1-a, 2-b, 3-c",
+        "d": "1-b, 2-a, 3-c",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "There were two systems of measurement, i.e., the English System and the Metric System \n\nThe Metric System is based on",
+        "a": "Binary units",
+        "b": "Fractional inches",
+        "c": "Decimal system",
+        "d": "Random conversion factors",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "In French, the abbreviation SI stands for",
+        "a": "Standard International",
+        "b": "Le Système International d’Unités",
+        "c": "Scientific Units",
+        "d": "System of Inches",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "A : Mass of a substance is the amount of matter present in it, while weight is the force exerted by gravity on an object. \n\nR : The mass of  a substance is constant, whereas, its weight may vary due to gravity",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "Analyse the image and tell its name",
+        "a": "Spring balance ",
+        "b": "Analytical balance",
+        "c": "Beam balance",
+        "d": "Physical balance",
+        "answer": "b",
+        "pyq": "no",
+        "image": "89900228",
+        "explain": "none"
     }
 }
