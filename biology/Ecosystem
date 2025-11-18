@@ -968,5 +968,60 @@
         "pyq": "no",
         "image": "50689138",
         "explain": "none"
+    },
+    "89": {
+        "question": "A : The pyramid of biomass in sea is generally inverted \n\nR : biomass of fishes far exceeds that of phytoplankton",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "90": {
+        "question": "S I : Energy at a lower trophic level is always less than at a higher level.\n\nS II : when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "91": {
+        "question": "If 20 J of energy is trapped at producer level, then how much energy will be available to peacock as food in the following chain? \n\nPlant → Mice → Snake → Peacock",
+        "a": "0.02 J",
+        "b": "0.002 J",
+        "c": "0.2 J",
+        "d": "0.0002 J",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "92": {
+        "question": "The term ecosystem was coined by",
+        "a": "E. Haeckel",
+        "b": "E.Warming",
+        "c": "E.P. Odum",
+        "d": "A. G. Tansley",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "93": {
+        "question": "which is not a limitation of ecological pyramids such as\r\nit \r\ntrophic levels.  something that almost\r\nnever exists in nature;  Moreover,\r\n in ecological pyramids even though\r\nthey play a vital role in the ecosystem.",
+        "a": "does not count the same species belonging to two or more",
+        "b": "It assumes a simple food chain",
+        "c": "it accommodate a food web",
+        "d": "No place for saprophytes",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
