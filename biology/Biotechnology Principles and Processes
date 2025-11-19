@@ -1276,5 +1276,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "117": {
+        "question": "The A B and C ",
+        "a": "A - Acid\/base for pH control\nB - Steam for Sterilisation\nC - Sterile Air",
+        "b": "A - Acid\/base for pH control\nB - Sterile Air\nC - Steam for Sterilisation",
+        "c": "A - Sterile Air\nB - Steam for Sterilisation\nC - Acid\/base for pH control",
+        "d": "A - Steam for Sterilisation\nB - Acid\/base for pH control\nC - Sterile Air",
+        "answer": "a",
+        "pyq": "no",
+        "image": "27194756",
+        "explain": "none"
     }
 }
