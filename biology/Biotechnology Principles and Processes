@@ -1144,5 +1144,38 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "105": {
+        "question": "Which of the following are used in gene cloning?",
+        "a": "Nucleoids",
+        "b": "Lomasomes",
+        "c": "Mesosomes",
+        "d": "Plasmids",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "106": {
+        "question": "A selectable marker is used to",
+        "a": "help in eliminating the non-transformants, so that the transformants can be regenerated",
+        "b": "identify the gene for a desired trait in an alien organism",
+        "c": "select a suitable vector for transformation in a specific crop",
+        "d": "mark a gene on a chromosome for isolation using restriction enzyme.",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "107": {
+        "question": "The process of replication in plasmid DNA, other than initiation, is controlled by",
+        "a": "mitochondrial gene",
+        "b": "plasmid gene",
+        "c": "bacterial gene",
+        "d": "no option is correct",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
