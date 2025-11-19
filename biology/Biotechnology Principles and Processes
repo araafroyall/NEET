@@ -935,5 +935,49 @@
         "pyq": "no",
         "image": "88352385",
         "explain": "none"
+    },
+    "86": {
+        "question": "....",
+        "a": "B - denaturation at a temperature of about 98°C separating the two DNA strands",
+        "b": "A - denaturation at a temperature of about 50°C",
+        "c": "C - extension in the presence of heat stable DNA polymerase",
+        "d": "A - annealing with two sets of primers",
+        "answer": "c",
+        "pyq": "no",
+        "image": "63439885",
+        "explain": "none"
+    },
+    "87": {
+        "question": "Plasmid pBR322 has Pst I restriction enzyme site within gene amp that confers ampicillin resistance . If this enzyme is used for inserting a gene for B - galactoside production and the recombinant plasmid is inserted in an E.coli strain",
+        "a": "it will not be able to confer ampicillin resistance to the host cell",
+        "b": "the transformed cells will have the ability to resist ampicillin as well B - galactoside as produce",
+        "c": "it will lead to lysis of host cell",
+        "d": "it will be able to produce a novel protein with dual ability",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "88": {
+        "question": "What is the fate of a piece of DNA carrying only gene of interest which is transferred into an alien organism?\n\nA. The piece of DNA would be able to multiply itself independently in the progeny cells of the organism. \n\nB. It may get integrated into the genome of the recipient. \n\nC. It may multiply and be inherited along with the host DNA.\n\n D. The alien piece of DNA is not an integral part of chromosome. \n\nE. It shows ability to replicate. Choose the correct answer from the options given below",
+        "a": "B and C only",
+        "b": "A and E only",
+        "c": "A and B only",
+        "d": "D and E only",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "89": {
+        "question": "See the image and mark correct option",
+        "a": "The gene ' 𝑋 ' is for protein involved in replication of Plasmid and ' 𝑌 ' for resistance to antibiotics.",
+        "b": "Gene ' 𝑋 ' is responsible for recognition sites and ' 𝑌 ' is responsible for antibiotic resistance.",
+        "c": "The gene ' 𝑋 ' is responsible for resistance to antibiotics and ' 𝑌 ' for protein involved in the replication of Plasmid.",
+        "d": "The gene ' X ' is responsible for controlling the copy number of the linked DNA and ' 𝑌′ for protein involved in the replication of Plasmid.",
+        "answer": "d",
+        "pyq": "no",
+        "image": "42287551",
+        "explain": "none"
     }
 }
