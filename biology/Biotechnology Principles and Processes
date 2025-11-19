@@ -1177,5 +1177,104 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "108": {
+        "question": "If any protein encoding gene is expressed in a heterologous host, it is called a",
+        "a": "recombinant protein",
+        "b": "recombinant DNA",
+        "c": "recombinant RNA",
+        "d": "recombinant primer",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "109": {
+        "question": "Which of the following statements is incorrect?",
+        "a": "Bio-reactors are used to produce small scale bacterial cultures",
+        "b": "Bio-reactors have an agitator system, an oxygen delivery system and foam control system.",
+        "c": "A bio-reactor provides optimal growth conditions for achieving the desired product.",
+        "d": "Most commonly used bio-reactors are of stirring type.",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "110": {
+        "question": "Which one of the following equipments is essentially required for growing microbes on a large scale, for industrial production of enzymes?",
+        "a": "Bioreactor",
+        "b": "BOD incubator",
+        "c": "Sludge digester",
+        "d": "Industrial oven",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "111": {
+        "question": "Bioreactors generally make products in large quantities as",
+        "a": "1-10 litres",
+        "b": "10-100 litres",
+        "c": "100-1000 litres",
+        "d": "10-1000 litres",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "112": {
+        "question": "Stirred-tank bioreactors have been designed for",
+        "a": "purification of product",
+        "b": "addition of preservatives to the product",
+        "c": "availability of oxygen throughout the process",
+        "d": "ensuring anaerobic conditions in the culture vessel",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "113": {
+        "question": "A : bioreactor has an agitator system, an oxygen delivery system and a foam control system, a temperature control system, pH control system \n\nR : bioreactor has sampling ports so that small volumes of the culture can be withdrawn periodically",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "114": {
+        "question": "The process of separation and purification of expressed protein before marketing is called...",
+        "a": "downstream processing",
+        "b": "bioprocessing",
+        "c": "postproduction processing",
+        "d": "upstream processing",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "115": {
+        "question": "Which of the following is not a component of downstream processing?",
+        "a": "Separation",
+        "b": "Purification",
+        "c": "Preservation",
+        "d": "Expression",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "116": {
+        "question": "S I : Quality control testing is not required after the downstream processing\n\nS II : In Downstream processing the products should not be preserved",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
