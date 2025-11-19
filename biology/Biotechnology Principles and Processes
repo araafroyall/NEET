@@ -979,5 +979,49 @@
         "pyq": "no",
         "image": "42287551",
         "explain": "none"
+    },
+    "90": {
+        "question": "A : Polymerase chain reaction is used in  DNA amplification \n\nR : The ampicillin resistant gene is used as a selectable marker to check transformation",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "91": {
+        "question": "Which of the following enzyme(s) are NOT essential for gene cloning?\n\nA. Restriction enzymes\n\nB. DNA ligase\n\nC. DNA mutase\n\nD. DNA recombinase\n\nE. DNA polymerase",
+        "a": "C and D only",
+        "b": "A and B only",
+        "c": "D and E only",
+        "d": "B and C only",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "92": {
+        "question": "S I: The blue coloured colonies have DNA insert in the plasmid and they are identified as recombinant colonies. \n\r\nS II: The colonies without blue colour have  DNA insert in the plasmid and are identified as recombinant colonies.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "93": {
+        "question": "Polymerase chain reaction (PCR) amplifies DNA following the equation.",
+        "a": "n²",
+        "b": "2ⁿ",
+        "c": "2n + 1",
+        "d": "2N²",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
