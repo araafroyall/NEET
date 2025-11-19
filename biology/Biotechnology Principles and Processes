@@ -1045,5 +1045,104 @@
         "pyq": "no",
         "image": "54899718",
         "explain": "none"
+    },
+    "96": {
+        "question": "In Polymerase Chain Reaction multiple copies of the gene (or DNA) of interest is synthesised in vitro using",
+        "a": "two sets of primers and DNA polymerase",
+        "b": "one sets of primers and DNA polymerase",
+        "c": "two sets of primers and RNA polymerase",
+        "d": "one sets of primers and RNA polymerase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "97": {
+        "question": "primers , small chemically synthesised oligonucleotides that are complementary to the regions of",
+        "a": "DNA",
+        "b": "RNA",
+        "c": "sRNA",
+        "d": "proteins code",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "98": {
+        "question": "The Taq polymerase enzyme is obtained from",
+        "a": "Bacillus subtilis",
+        "b": "Pseudomonas putida",
+        "c": "Thermus aquaticus",
+        "d": "Thiobacillus ferroxidans",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "99": {
+        "question": "Repeated amplification of DNA during PCR is possible because the enzyme used is",
+        "a": "A heat-sensitive DNA polymerase from E. coli",
+        "b": "A thermostable DNA polymerase from Thermus aquaticus",
+        "c": "An RNA polymerase that works only at low temperature",
+        "d": "A ligase enzyme that joins DNA fragments",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "100": {
+        "question": "Thermostable DNA Polymerase isolated from thermus aquaticus which is a",
+        "a": "fungi",
+        "b": "bacteria ",
+        "c": "eukaryotic cell",
+        "d": "Ecoli",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "101": {
+        "question": "Which property allows Taq DNA polymerase to function during PCR cycles?",
+        "a": "It denatures at high temperature",
+        "b": "It remains active even during high-temperature DNA denaturation",
+        "c": "It requires ice-cold conditions to work",
+        "d": "It functions only at room temperature",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "102": {
+        "question": "In rDNA technology, the ampicillin resistance gene is used as a",
+        "a": "Cloning vector",
+        "b": "Selectable marker",
+        "c": "Restriction site",
+        "d": "Origin of replication",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "103": {
+        "question": "When E. coli cells carrying a recombinant plasmid with ampicillin-resistance gene are plated on ampicillin agar, which cells survive?",
+        "a": "Only transformed cells",
+        "b": "Only non-transformed cells",
+        "c": "Both transformed and non-transformed cells",
+        "d": "No cells survive",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "104": {
+        "question": "Why do untransformed E. coli cells fail to grow on ampicillin-containing agar?",
+        "a": "They lack the ampicillin-resistance gene",
+        "b": "They divide too slowly",
+        "c": "They cannot utilise agar",
+        "d": "Ampicillin enhances their growth",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
