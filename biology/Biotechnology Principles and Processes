@@ -924,5 +924,16 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "85": {
+        "question": "In Image ....",
+        "a": "ori-original restriction enzyme",
+        "b": "rop-reduced osmotic pressure",
+        "c": "HindIII, EcoRI - selectable markers",
+        "d": "ampR, tetR–antibiotic resistance genes",
+        "answer": "d",
+        "pyq": "no",
+        "image": "88352385",
+        "explain": "none"
     }
 }
