@@ -1023,5 +1023,27 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "94": {
+        "question": "In the represented plasmid an alien piece of DNA is inserted at EcoRI site. \n\nWhich of the following strategies will be chosen to select the recombinant colonies?",
+        "a": "Using ampicillin and tetracyclin containing medium plate.",
+        "b": "Blue colour colonies will be selected.",
+        "c": "White colour colonies will be selected.",
+        "d": "Blue colour colonies grown on ampicillin plates can be selected.",
+        "answer": "c",
+        "pyq": "no",
+        "image": "99252577",
+        "explain": "none"
+    },
+    "95": {
+        "question": "Identify the part of a bio-reactor which is used \r\nas a foam braker from the given figure.",
+        "a": "B",
+        "b": "A",
+        "c": "C",
+        "d": "D",
+        "answer": "c",
+        "pyq": "no",
+        "image": "54899718",
+        "explain": "none"
     }
 }
