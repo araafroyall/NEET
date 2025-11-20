@@ -1276,5 +1276,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "117": {
+        "question": "The P Q R in the given picture",
+        "a": "P – EcoR I\nQ – Cla I\nR – Hind III",
+        "b": "P – Hind III\nQ – EcoR I\nR – Cla I",
+        "c": "P – Cla I\nQ – Hind III\nR – EcoR I",
+        "d": "P – EcoR I\nQ – Hind III\n R – Cla I",
+        "answer": "a",
+        "pyq": "no",
+        "image": "52736385",
+        "explain": "none"
     }
 }
