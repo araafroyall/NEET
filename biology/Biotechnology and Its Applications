@@ -1,4 +1,15 @@
 {
     "name": "Biotechnology and Its Applications",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "What triggers activation of protoxin to active toxin of Bacillus thuringiensis in bollworm?",
+        "a": "Acidic pH of stomach",
+        "b": "Body temperature",
+        "c": "Moist surface of midgut",
+        "d": "Alkaline pH of gut",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
