@@ -66,5 +66,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "7": {
+        "question": "The diagram is of ",
+        "a": "pbr322",
+        "b": "pbr626",
+        "c": "pbr6272",
+        "d": "pbr7272",
+        "answer": "b",
+        "pyq": "no",
+        "image": "34812883",
+        "explain": "none"
     }
 }
