@@ -1023,5 +1023,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "94": {
+        "question": "In an ecosystem if the Net Primary Productivity (NPP) of first trophic level is 100𝑥(kcalm −2) 𝑦𝑟−1, what would be the GPP (Gross Primary Productivity) of the third trophic level of the same ecosystem?",
+        "a": "10𝑥 (kcalm−2)yr−1",
+        "b": "100𝑥\/3𝑥 (kcalm−2)yr−1",
+        "c": "𝑥\/10 (kcalm−2)yr−1",
+        "d": "𝑥(kcalm−2)yr−1",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
