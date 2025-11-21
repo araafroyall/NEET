@@ -55,5 +55,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "6": {
+        "question": "Each of these plants will be genetically\r\nidentical to the original plant from which they were grown, i.e., they are\r\n",
+        "a": "tisssue culture ",
+        "b": "micropropagation",
+        "c": "somaclone",
+        "d": "Both 1 and 2",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
