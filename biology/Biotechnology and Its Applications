@@ -11,5 +11,38 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "2": {
+        "question": "In RNAi, the genes are silenced using",
+        "a": "ds-RNA",
+        "b": "ss-DNA",
+        "c": "ss-RNA",
+        "d": "ds-DNA",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "RNA interference involves silencing of specific",
+        "a": "cDNA and RNA using reverse transcriptase",
+        "b": "mRNA due to complementary RNA",
+        "c": "RNA in synthesis of DNA",
+        "d": "mRNA from DNA",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "Tobacco plants resistant to a nematode have been developed by the introduction of DNA that produces (in the host cells",
+        "a": "both sense and anti-sense RNA",
+        "b": "a particular hormone",
+        "c": "an antifeedant",
+        "d": "a toxic protein",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
