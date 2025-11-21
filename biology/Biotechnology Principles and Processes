@@ -1278,14 +1278,14 @@
         "explain": "none"
     },
     "117": {
-        "question": "The P Q R in the given picture",
-        "a": "P – EcoR I\nQ – Cla I\nR – Hind III",
-        "b": "P – Hind III\nQ – EcoR I\nR – Cla I",
-        "c": "P – Cla I\nQ – Hind III\nR – EcoR I",
-        "d": "P – EcoR I\nQ – Hind III\n R – Cla I",
+        "question": "The 3,4 and 5 in the given picture",
+        "a": "3 – EcoR I\n4 – Cla I\n5 – Hind III",
+        "b": "3 – Hind III\n4 – EcoR I\n5 – Cla I",
+        "c": "3 – Cla I\n4 – Hind III\n5 – EcoR I",
+        "d": "3 – EcoR I\n4 – Hind III\n5 – Cla I",
         "answer": "a",
         "pyq": "no",
-        "image": "52736385",
+        "image": "14045682",
         "explain": "none"
     },
     "118": {
@@ -1307,7 +1307,7 @@
         "d": "1 - Pst I\n2 - Pvu I\n8 - Pst II",
         "answer": "b",
         "pyq": "no",
-        "image": "none",
+        "image": "14045682",
         "explain": "none"
     }
 }
