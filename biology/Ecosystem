@@ -1045,5 +1045,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "96": {
+        "question": "Given below is an imaginary pyramid of numbers. What could be one of the possibilities about certain organisms at some of the different levels?",
+        "a": "Level PC is “insects” and level SC is “small insectivorous birds”.",
+        "b": "Level PP is “phytoplanktons” in sea and “whale” on top level TC.",
+        "c": "Level one PP is “pipal trees” and the level SC is “sheep”.",
+        "d": "Level PC is “rats” and level SC is “cats”.",
+        "answer": "a",
+        "pyq": "no",
+        "image": "54654018",
+        "explain": "none"
     }
 }
