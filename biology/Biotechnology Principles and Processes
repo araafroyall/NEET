@@ -1287,5 +1287,16 @@
         "pyq": "no",
         "image": "52736385",
         "explain": "none"
+    },
+    "118": {
+        "question": "The 6 and 7 in vector pBR322, respectively",
+        "a": "Bamh I and Sal I",
+        "b": "Bamh II and Sal I",
+        "c": "EcoRI and Hind III",
+        "d": "Pvu II",
+        "answer": "a",
+        "pyq": "no",
+        "image": "14045682",
+        "explain": "none"
     }
 }
