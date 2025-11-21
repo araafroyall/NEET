@@ -1034,5 +1034,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "95": {
+        "question": "primary producers convert the energy from the sunlight available to them into NPP by",
+        "a": "1%",
+        "b": "10%",
+        "c": "2-10%",
+        "d": "5%",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
