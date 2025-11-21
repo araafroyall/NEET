@@ -1056,5 +1056,16 @@
         "pyq": "no",
         "image": "54654018",
         "explain": "none"
+    },
+    "97": {
+        "question": "What type of ecological pyramid would be obtained with the following data? \nSecondary consumer : 120 g \nPrimary consumer : 60 g \nPrimary producer : 10 g",
+        "a": "Inverted pyramid of biomass",
+        "b": "Pyramid of energy",
+        "c": "Upright pyramid of numbers",
+        "d": "Upright pyramid of biomass",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
