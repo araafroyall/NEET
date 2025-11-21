@@ -44,5 +44,16 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "5": {
+        "question": "This capacity to generate a whole plant from\r\nany cell\/explant is called",
+        "a": "totipotency",
+        "b": "shisisj",
+        "c": "sbhsjsh",
+        "d": "hzhsjsj",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
