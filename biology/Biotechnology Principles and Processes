@@ -1309,5 +1309,16 @@
         "pyq": "no",
         "image": "14045682",
         "explain": "none"
+    },
+    "120": {
+        "question": "The Name of the vector",
+        "a": "pBR322",
+        "b": "pBR233",
+        "c": "pBR232",
+        "d": "pBR323",
+        "answer": "a",
+        "pyq": "no",
+        "image": "85053532",
+        "explain": "none"
     }
 }
