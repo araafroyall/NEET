@@ -1298,5 +1298,16 @@
         "pyq": "no",
         "image": "14045682",
         "explain": "none"
+    },
+    "119": {
+        "question": "The 1 , 2 and 8 in vector pBR322, respectively",
+        "a": "1 - Pvu I\n2 - Pst II\n8 - pvu II",
+        "b": "1 - Pst I\n2 - Pvu I\n8 - Pvu II",
+        "c": "1 - Pvu II\n2 - pst III\n8 - pst I",
+        "d": "1 - Pst I\n2 - Pvu I\n8 - Pst II",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
