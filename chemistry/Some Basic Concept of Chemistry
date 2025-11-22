@@ -68,7 +68,7 @@
         "explain": "none"
     },
     "7": {
-        "question": "Match the following\n\n1. Hydrogen          (a) Used as a fire extinguisher\n2. Oxygen              (b) Burns with a pop sound\n3. Water                 (c) Supports combustion",
+        "question": "Match the following\n\n1. Hydrogen          (a) Used as a fire\n                                       extinguisher\n2. Oxygen              (b) Burns with a pop\n                                       sound\n3. Water                 (c) Supports\n                                       combustion",
         "a": "1-b, 2-c, 3-a",
         "b": "1-c, 2-a, 3-b",
         "c": "1-a, 2-b, 3-c",
