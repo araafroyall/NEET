@@ -1,4 +1,15 @@
 {
     "name": "The Living World",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "In the taxonomic categories which hierarchical arrangement in descending order is correct in case of animals?",
+        "a": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "b": "Kingdom, Class, Phylum, Family, Order, Genus, Species",
+        "c": "Kingdom, Order, Class, Phylum, Family, Genus, Species",
+        "d": "Kingdom, Order, Phylum, Class, Family, Genus, Species",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
