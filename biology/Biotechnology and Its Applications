@@ -88,5 +88,16 @@
         "pyq": "yes",
         "image": "57578815",
         "explain": "none"
+    },
+    "9": {
+        "question": "Which of the following are fused in somatic hybridization involving two varieties of plants?",
+        "a": "Protoplasts",
+        "b": "Pollens",
+        "c": "Callus",
+        "d": "Somatic embryos",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
     }
 }
