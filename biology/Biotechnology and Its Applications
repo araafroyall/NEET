@@ -55,5 +55,38 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "6": {
+        "question": "Match the following columns",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "63819663",
+        "explain": "none"
+    },
+    "7": {
+        "question": "With regard to insulin choose the correct options.\n\nI. C - peptide is not present in mature insulin.\n\nII. The insulin produced by rDNA technology has C - peptide.\n\nIII. The pro - insulin has C-peptide \n\nIV. A - peptide and B-peptide of insulin are interconnected by disulphide bridges.",
+        "a": "II and IV",
+        "b": "II and III",
+        "c": "I, III and IV",
+        "d": "I and IV",
+        "answer": "c",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "See the Match below",
+        "a": "A-III, B-IV, C-I, D-II",
+        "b": "A-II, B-IV, C-I, D-III",
+        "c": "A-II, B-I, C-IV, D-III",
+        "d": "A-III, B-I, C-II, D-IV",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "57578815",
+        "explain": "none"
     }
 }
