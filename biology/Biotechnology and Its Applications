@@ -1,4 +1,59 @@
 {
     "name": "Biotechnology and Its Applications",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "Golden rice is a genetically modified crop plant where the incorporated gene is meant for biosynthesis of",
+        "a": "omega 3",
+        "b": "vitamin A",
+        "c": "vitamin B",
+        "d": "vitamin C.",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "2": {
+        "question": "RNA interference involves",
+        "a": "synthesis of cDNA and RNA using reverse transcriptase",
+        "b": "silencing of specific mRNA due to complementary RNA",
+        "c": "interference of RNA in synthesis of DNA",
+        "d": "synthesis of mRNA from DNA",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "RNA interference involves",
+        "a": "synthesis of cDNA and RNA using reverse transcriptase",
+        "b": "silencing of specific mRNA due to complementary RNA",
+        "c": "interference of RNA in synthesis of DNA",
+        "d": "synthesis of mRNA from DNA",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "Tobacco plants resistant to a nematode have been developed by the introduction of DNA that produces (in the host cells",
+        "a": "both sense and anti-sense RNA",
+        "b": "a particular hormone",
+        "c": "an antifeedant",
+        "d": "a toxic protein",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "Bacillus thuringiensis forms protein crystals which contain insecticidal protein. This protein",
+        "a": "binds with epithelial cells of midgut of the insect pest ultimately killing it",
+        "b": "is coded by several genes including the gene cry",
+        "c": "is activated by acid pH of the foregut of the insect pest",
+        "d": "does not kill the carrier bacterium which is itself resistant to this toxin",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    }
 }
