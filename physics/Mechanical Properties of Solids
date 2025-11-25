@@ -1,4 +1,235 @@
 {
     "name": "Mechanical Properties of Solids",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "S I : Solid bodies are not perfectly rigid\n\nS II : For any change or Deform to a shape a force is required",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "2": {
+        "question": "The property of a body by which it regains its original size and shape after the removal of an applied force is called",
+        "a": "Plasticity",
+        "b": "Elasticity",
+        "c": "Rigidity",
+        "d": "Malleability",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "The deformation produced in a body when an external force is applied and removed within elastic limits is known as",
+        "a": "Plastic deformation",
+        "b": "Elastic deformation",
+        "c": "Permanent deformation",
+        "d": "Shear deformation",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "A substance that undergoes permanent deformation when a force is applied exhibits",
+        "a": "Elasticity",
+        "b": "Plasticity",
+        "c": "Rigidity",
+        "d": "Ductility",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "Which of the following are examples of nearly ideal plastic substances?",
+        "a": "Rubber and steel",
+        "b": "Putty and mud",
+        "c": "Copper and aluminium",
+        "d": "Glass and wood",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "6": {
+        "question": "The restoring force developed per unit area of a body under deformation is called",
+        "a": "Strain",
+        "b": "Stress",
+        "c": "Pressure",
+        "d": "Elastic limit",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "When a body is deformed, the restoring force acts",
+        "a": "In the same direction as the applied force",
+        "b": "Opposite to the applied force",
+        "c": "At 90° to the applied force",
+        "d": "Randomly in all directions",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "A : When a deforming force is applied on a body, a restoring force develops inside it.\n\nR : The restoring force is equal in magnitude and opposite in direction to the applied force.",
+        "a": "Both A and R are true, and R is the correct explanation of A",
+        "b": "Both A and R are true, but R is NOT the correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "When a cylinder is stretched by equal and opposite forces normal to its cross-section, the restoring force per unit area is called",
+        "a": "Shear stress",
+        "b": "Tensile stress",
+        "c": "Compressive stress",
+        "d": "Hydraulic stress",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "When a cylinder is compressed under equal applied forces, the restoring force per unit area is known as",
+        "a": "Tensile stress",
+        "b": "Shear stress",
+        "c": "Compressive stress",
+        "d": "Thermal stress",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "Tensile or compressive stress is also referred to as",
+        "a": "Lateral stress",
+        "b": "Longitudinal stress",
+        "c": "Shear stress",
+        "d": "Normal strain",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "The stress produced when equal and opposite forces act parallel to the cross-sectional area of a body, causing relative displacement between its opposite faces, is known as",
+        "a": "Tensile stress",
+        "b": "Compressive stress",
+        "c": "Shearing (tangential) stress",
+        "d": "Hydraulic stress",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "S I : Shearing strain is produced when tangential forces cause a relative displacement between opposite faces of a cylinder. \n\nS II : Shearing strain is defined as the ratio of relative displacement (Δx) to the length of the cylinder (L).",
+        "a": "Both S I and S II are true",
+        "b": "Both S I and S II are false",
+        "c": "S I is true but S II is false",
+        "d": "S I is false but S II is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "14": {
+        "question": "A : A solid sphere placed in a fluid under high pressure undergoes hydraulic compression. \n\nR : The fluid applies perpendicular force at all points on the sphere, decreasing its volume without changing its shape. Options",
+        "a": "Both A and R are true and R is the correct explanation of A",
+        "b": "Both A and R are true but R is not the correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "15": {
+        "question": "When a body in a fluid develops internal restoring force per unit area equal to the applied fluid pressure, that internal restoring force per unit area is called",
+        "a": "Shear stress",
+        "b": "Tensile stress",
+        "c": "Hydraulic stress",
+        "d": "Viscous stress",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "16": {
+        "question": "A : The body restores its original shape and size when taken out from the fluid.\n\nR : The internal restoring forces developed are equal and opposite to the forces applied by the fluid. Options",
+        "a": "Both A and R are true and R is the correct explanation of A",
+        "b": "Both A and R are true but R is not the correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "17": {
+        "question": "S I : Hydraulic stress is equal in magnitude to the applied hydraulic pressure (force per unit area).\n\nS II : Hydraulic pressure acts tangentially to the surface of a body immersed in a fluid.",
+        "a": "Both S I and S II are true",
+        "b": "Both S I and S II are false",
+        "c": "S I is true but S II is false",
+        "d": "S I is false but S II is true",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "18": {
+        "question": "A : Strain is Dimensionless\n\nR : In strain the same unit is divided by the same unit ",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "19": {
+        "question": "For small deforms the stress and strain are proportional to each other is",
+        "a": "Hooks Law",
+        "b": "Modulus of rigidity",
+        "c": "Share modulus",
+        "d": "Longitudinal force",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "20": {
+        "question": "Hooks law constant Y is known as",
+        "a": "Modulus of rigidity",
+        "b": "Modulus of Elasticity",
+        "c": "share modulus",
+        "d": "volumetric module",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "21": {
+        "question": "S I : Hooks law is valid for all materials without exceptions\n\nS II : The strain produced by hydraulic pressure is Volume strain",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
