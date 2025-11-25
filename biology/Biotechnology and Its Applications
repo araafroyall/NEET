@@ -220,5 +220,104 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "21": {
+        "question": "S I : Genetically modified crops can increase the use of fertilizers and harmful chemicals.\n\nS II : Reducing chemical usage decreases the negative impact on the environment.",
+        "a": "Both S I and S II are true",
+        "b": "Both S I and S II are false",
+        "c": "S I is true but S II is false",
+        "d": "S I is false but S II is true",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "22": {
+        "question": "Organisms such as plants, bacteria, fungi or animals whose genes have been altered by manipulation are called",
+        "a": "Genetically Modified Organisms - GMO",
+        "b": "Hybrids",
+        "c": "Clones",
+        "d": "Mutants",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "23": {
+        "question": "Which of the following is NOT an advantage of genetic modification?",
+        "a": "Tolerance to abiotic stress + reduced pesticide use",
+        "b": "Reduced post-harvest losses + improved mineral usage",
+        "c": "Enhanced nutritional value",
+        "d": "Increased post-harvest losses + lower nutritional value",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "24": {
+        "question": "Genetic modification has been used to create tailor-made plants that supply industries with",
+        "a": "Starches, fuels and pharmaceuticals",
+        "b": "Only fruits and vegetables",
+        "c": "Only timber and fibres",
+        "d": "Only ornamental products",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "25": {
+        "question": "Bt cotton variety that was developed by the introduction of the toxin gene of Bacillus thuringiensis (Bt) is resistant to",
+        "a": "insect pests",
+        "b": "fungal diseases",
+        "c": "plant nematodes",
+        "d": "insect predators.",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "26": {
+        "question": "The Bt toxin gene that provides pest resistance in plants is originally obtained from",
+        "a": "Bacteria",
+        "b": "Virus",
+        "c": "Fungus",
+        "d": "Nematode",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "27": {
+        "question": "Bt Cotton: Some strains of Bacillus thuringiensis produce proteins that kill certain insects ... Except",
+        "a": "Lepidopterans\n  - tobacco budworm, armyworm",
+        "b": "Hemipterans \n   - Aphids, bugs",
+        "c": "Coleopterans\n   - beetles",
+        "d": "Dipterans\n   - flies, mosquitoes",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "28": {
+        "question": "In Bt cotton, the Bt toxin present in plant tissue as protoxin is converted into active toxin due to",
+        "a": "action of gut microorganisms",
+        "b": "presence of conversion factors in insect gut",
+        "c": "alkaline pH of the insect gut",
+        "d": "acidic pH of the insect gut.",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "29": {
+        "question": "Bacillus thuringiensis produces protein crystals containing Bt toxin during its",
+        "a": "Growth phase",
+        "b": "Dormant phase",
+        "c": "Death phase",
+        "d": "Stationary phase",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
     }
 }
