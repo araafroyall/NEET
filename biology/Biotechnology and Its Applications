@@ -227,7 +227,7 @@
         "b": "Both S I and S II are false",
         "c": "S I is true but S II is false",
         "d": "S I is false but S II is true",
-        "answer": "c",
+        "answer": "d",
         "pyq": "no",
         "image": "none",
         "explain": "none"
