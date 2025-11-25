@@ -99,5 +99,49 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "10": {
+        "question": "Three critical research areas of biotechnology include all, except",
+        "a": "Improved catalysts (microbe\/enzyme",
+        "b": "Optimal engineering conditions",
+        "c": "Downstream processing",
+        "d": "Animal behaviour studies",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "Which of the following is NOT a major approach for food production?",
+        "a": "Agro-chemical based agriculture",
+        "b": "Organic agriculture",
+        "c": "Genetically engineered crops",
+        "d": "Space-based agriculture",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "S I : The Green Revolution succeeded in tripling the food supply but yet it was not enough to feed the growing human population\n\nS II : agrochemicals are often too expensive, and further increases in yield with existing varieties are not possible using conventional breeding",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "The capacity to generate a whole plant from any cell\/explant is called",
+        "a": "Sometic hybrdization",
+        "b": "Totipotency",
+        "c": "Somaclone production",
+        "d": "Cloning",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
     }
 }
