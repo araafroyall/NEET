@@ -143,5 +143,82 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "14": {
+        "question": "A : A whole plant can be regenerated from an explant when grown on nutrient medium under sterile conditions.\n\nR : The ability of a single cell or explant to develop into an entire plant is known as totipotency.",
+        "a": "Both A and R are true and R is the correct explanation of A",
+        "b": "Both A and R are true but R is not the correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "15": {
+        "question": "During plant tissue culture, the nutrient medium must contain",
+        "a": "Only water",
+        "b": "Only sucrose",
+        "c": "Carbon source (sucrose)\nInorganic salts, vitamins, amino acids and growth regulators",
+        "d": "Only auxins and cytokinins",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "16": {
+        "question": "S I : Micro-propagation can produce thousands of plants that are genetically identical to the original plant.\n\nS II : The plants produced through micro-propagation are called somaclones.",
+        "a": "Both S I and S II are true",
+        "b": "Both S I and S II are false",
+        "c": "S I is true but S II is false",
+        "d": "S I is false but S II is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "17": {
+        "question": "Which part of an infected plant is used in tissue culture to obtain virus-free plants?",
+        "a": "Apical or Axillary meristem",
+        "b": "Root hairs",
+        "c": "Mature leaf tissue",
+        "d": "Stem epidermis",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "18": {
+        "question": "Which of the following plants have been successfully cultured using meristem to obtain virus-free plants?",
+        "a": "Banana, sugarcane and potato",
+        "b": "Wheat, rice and maize",
+        "c": "Mango, guava and pomegranate",
+        "d": "Citrus, grapes and apple",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "19": {
+        "question": "A : Fusion of protoplasts from two different plant varieties can produce a new hybrid plant.\n\nR : Protoplasts are naked cells surrounded only by a plasma membrane, allowing them to fuse easily.",
+        "a": "Both A and R are true and R is the correct explanation of A",
+        "b": "Both A and R are true but R is not the correct explanation of A",
+        "c": "A is true but R is false",
+        "d": "A is false but R is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "20": {
+        "question": "Fusion of tomato and potato protoplasts results in the formation of",
+        "a": "Pomato",
+        "b": "Topato",
+        "c": "Tomapple",
+        "d": "Potamato",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
