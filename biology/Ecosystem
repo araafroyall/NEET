@@ -728,17 +728,6 @@
         "explain": "none"
     },
     "67": {
-        "question": "The herbivores are",
-        "a": "primary consumers",
-        "b": "secondary consumers",
-        "c": "tertiary consumers",
-        "d": "producers",
-        "answer": "a",
-        "pyq": "no",
-        "image": "none",
-        "explain": "none"
-    },
-    "68": {
         "question": "Which of the following correctly lists common herbivores in terrestrial and aquatic ecosystems?",
         "a": "Terrestrial–fishes\nAquatic–tigers",
         "b": "Terrestrial–insects, birds and mammals\nAquatic–molluscs",
@@ -749,7 +738,7 @@
         "image": "none",
         "explain": "none"
     },
-    "69": {
+    "68": {
         "question": "The consumers that feed on these herbivores are secondary consumers as carnivores, or more correctly as  ",
         "a": "primary carnivores",
         "b": "secondary carnivores",
@@ -760,7 +749,7 @@
         "image": "none",
         "explain": "none"
     },
-    "70": {
+    "69": {
         "question": "Why are decomposers also called saprotrophs?",
         "a": "Because they prepare their own food",
         "b": "Because they decompose dead matter by secreting digestive enzymes and absorb simple inorganic materials",
@@ -771,7 +760,7 @@
         "image": "none",
         "explain": "none"
     },
-    "71": {
+    "70": {
         "question": "Decomposers(Heterotropic) in the DFC mainly include which group of organisms?",
         "a": "Mammals and birds",
         "b": "Fungi and bacteria",
@@ -782,7 +771,7 @@
         "image": "none",
         "explain": "none"
     },
-    "72": {
+    "71": {
         "question": "The detritus food chain (DFC) starts with which component?",
         "a": "Living producers",
         "b": "Dead organic matter",
@@ -793,7 +782,7 @@
         "image": "none",
         "explain": "none"
     },
-    "73": {
+    "72": {
         "question": "The Correct option for Energy flow in",
         "a": "Aquatic       - DFC\nTerrestrial   - GFC",
         "b": "Aquatic       - GFC\nTerrestrial   - DFC",
@@ -804,7 +793,7 @@
         "image": "none",
         "explain": "none"
     },
-    "74": {
+    "73": {
         "question": "Which option is wrong",
         "a": "DFC are prey to the GFC animals",
         "b": "cockroaches, crows are omnivores.",
@@ -815,7 +804,7 @@
         "image": "none",
         "explain": "none"
     },
-    "75": {
+    "74": {
         "question": "Organisms occupy specific positions in a community based on their feeding relationships. This position is called",
         "a": "habitat",
         "b": "trophic level",
@@ -826,7 +815,7 @@
         "image": "none",
         "explain": "none"
     },
-    "76": {
+    "75": {
         "question": "Herbivores are",
         "a": "Primary consumers at the second trophic level",
         "b": "Secondary consumers at the first trophic level",
@@ -837,7 +826,7 @@
         "image": "none",
         "explain": "none"
     },
-    "77": {
+    "76": {
         "question": "Carnivores are",
         "a": "Secondary consumers at the third trophic level",
         "b": "Primary consumers at the second trophic level",
@@ -848,7 +837,7 @@
         "image": "none",
         "explain": "none"
     },
-    "78": {
+    "77": {
         "question": "Which are herbivores or at second tropic level",
         "a": "birds , fishes, wolf",
         "b": "zooplankton , grasshopper , cow",
@@ -859,7 +848,7 @@
         "image": "none",
         "explain": "none"
     },
-    "79": {
+    "78": {
         "question": "Which are carnivores or at third tropic level",
         "a": "birds , fishes, wolf",
         "b": "zooplankton , grasshopper , cow",
@@ -870,7 +859,7 @@
         "image": "none",
         "explain": "none"
     },
-    "80": {
+    "79": {
         "question": "The mass or number of living organisms present at a trophic level at a given time is known as\n\n[ mass of living organism(biomass) or number in unit area]",
         "a": "Productivity",
         "b": "Standing crop",
@@ -881,7 +870,7 @@
         "image": "none",
         "explain": "none"
     },
-    "81": {
+    "80": {
         "question": "Why is biomass measurement based on dry weight considered more accurate than fresh weight?",
         "a": "Fresh weight contains variable amounts of water that can distort actual biomass",
         "b": "Dry weight decreases the organic content",
@@ -892,7 +881,7 @@
         "image": "none",
         "explain": "none"
     },
-    "82": {
+    "81": {
         "question": "Does detritus food chain follow 10% Energy transfer Law?",
         "a": "No, because decomposers recycle all energy without loss",
         "b": "Yes, because energy loss occurs at each step even in detritus food chains",
@@ -903,7 +892,7 @@
         "image": "none",
         "explain": "none"
     },
-    "83": {
+    "82": {
         "question": "Which of the following is NOT one of the commonly studied ecological pyramids?",
         "a": "Pyramid of number",
         "b": "Pyramid of biomass",
@@ -914,7 +903,7 @@
         "image": "none",
         "explain": "none"
     },
-    "84": {
+    "83": {
         "question": "Pyramids are always upright of",
         "a": "Energy",
         "b": "Biomass in land",
@@ -925,7 +914,7 @@
         "image": "none",
         "explain": "none"
     },
-    "85": {
+    "84": {
         "question": "S I : Any calculations of energy content, biomass or numbers, has to include all organisms at that trophic level\n\nS II : the trophic level represents a functional level, not a species",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -936,7 +925,7 @@
         "image": "none",
         "explain": "none"
     },
-    "86": {
+    "85": {
         "question": "Which organism can occupy more than one trophic level at the same time?",
         "a": "Sparrow",
         "b": "Cow",
@@ -947,7 +936,7 @@
         "image": "none",
         "explain": "none"
     },
-    "87": {
+    "86": {
         "question": "In an ecosystem where nearly 6 million plants are produced, the energy flow can support approximately",
         "a": "Only three top carnivores",
         "b": "Three million top carnivores",
@@ -958,7 +947,7 @@
         "image": "none",
         "explain": "none"
     },
-    "88": {
+    "87": {
         "question": "The correct Representation",
         "a": "phytoplankton supports large standing crop of zooplankton",
         "b": "zooplankton supports large standing crop of phytoplankton",
@@ -969,7 +958,7 @@
         "image": "50689138",
         "explain": "none"
     },
-    "89": {
+    "88": {
         "question": "A : The pyramid of biomass in sea is generally inverted \n\nR : biomass of fishes far exceeds that of phytoplankton",
         "a": "Both A & R is Correct + R is Correct Explanation of A",
         "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
@@ -980,7 +969,7 @@
         "image": "none",
         "explain": "none"
     },
-    "90": {
+    "89": {
         "question": "S I : Energy at a lower trophic level is always less than at a higher level.\n\nS II : when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -991,7 +980,7 @@
         "image": "none",
         "explain": "none"
     },
-    "91": {
+    "90": {
         "question": "If 20 J of energy is trapped at producer level, then how much energy will be available to peacock as food in the following chain? \n\nPlant → Mice → Snake → Peacock",
         "a": "0.02 J",
         "b": "0.002 J",
@@ -1002,7 +991,7 @@
         "image": "none",
         "explain": "none"
     },
-    "92": {
+    "91": {
         "question": "The term ecosystem was coined by",
         "a": "E. Haeckel",
         "b": "E.Warming",
@@ -1013,7 +1002,7 @@
         "image": "none",
         "explain": "none"
     },
-    "93": {
+    "92": {
         "question": "which is not a limitation of ecological pyramids",
         "a": "does not count the same species belonging to two or more",
         "b": "It assumes a simple food chain",
@@ -1024,7 +1013,7 @@
         "image": "none",
         "explain": "none"
     },
-    "94": {
+    "93": {
         "question": "In an ecosystem if the Net Primary Productivity (NPP) of first trophic level is 100𝑥(kcalm −2) 𝑦𝑟−1, what would be the GPP (Gross Primary Productivity) of the third trophic level of the same ecosystem?",
         "a": "10𝑥 (kcalm−2)yr−1",
         "b": "100𝑥\/3𝑥 (kcalm−2)yr−1",
@@ -1035,7 +1024,7 @@
         "image": "none",
         "explain": "none"
     },
-    "95": {
+    "94": {
         "question": "primary producers convert the energy from the sunlight available to them into NPP by",
         "a": "1%",
         "b": "10%",
@@ -1046,7 +1035,7 @@
         "image": "none",
         "explain": "none"
     },
-    "96": {
+    "95": {
         "question": "Given below is an imaginary pyramid of numbers. What could be one of the possibilities about certain organisms at some of the different levels?",
         "a": "Level PC is “insects” and level SC is “small insectivorous birds”.",
         "b": "Level PP is “phytoplanktons” in sea and “whale” on top level TC.",
@@ -1057,7 +1046,7 @@
         "image": "54654018",
         "explain": "none"
     },
-    "97": {
+    "96": {
         "question": "What type of ecological pyramid would be obtained with the following data? \nSecondary consumer : 120 g \nPrimary consumer : 60 g \nPrimary producer : 10 g",
         "a": "Inverted pyramid of biomass",
         "b": "Pyramid of energy",
