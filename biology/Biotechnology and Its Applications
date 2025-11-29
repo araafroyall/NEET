@@ -319,5 +319,27 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "30": {
+        "question": "S I : Bt can create pores that cause cell swelling and lysis and eventually cause death of the insect.\n\nS II : most Bt toxins are insect-group specific",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "31": {
+        "question": "A : Bt toxin is coded by a gene cryIAc named cry\n\nR : cryIAc and cryIIAb control the cotton bollworms",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
