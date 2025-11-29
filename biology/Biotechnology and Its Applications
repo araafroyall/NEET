@@ -24,17 +24,6 @@
         "explain": "none"
     },
     "3": {
-        "question": "RNA interference involves",
-        "a": "synthesis of cDNA and RNA using reverse transcriptase",
-        "b": "silencing of specific mRNA due to complementary RNA",
-        "c": "interference of RNA in synthesis of DNA",
-        "d": "synthesis of mRNA from DNA",
-        "answer": "b",
-        "pyq": "yes",
-        "image": "none",
-        "explain": "none"
-    },
-    "4": {
         "question": "Tobacco plants resistant to a nematode have been developed by the introduction of DNA that produces (in the host cells",
         "a": "both sense and anti-sense RNA",
         "b": "a particular hormone",
@@ -45,7 +34,7 @@
         "image": "none",
         "explain": "none"
     },
-    "5": {
+    "4": {
         "question": "Bacillus thuringiensis forms protein crystals which contain insecticidal protein. This protein",
         "a": "binds with epithelial cells of midgut of the insect pest ultimately killing it",
         "b": "is coded by several genes including the gene cry",
@@ -56,7 +45,7 @@
         "image": "none",
         "explain": "none"
     },
-    "6": {
+    "5": {
         "question": "Match the following columns",
         "a": "a",
         "b": "b",
@@ -67,7 +56,7 @@
         "image": "63819663",
         "explain": "none"
     },
-    "7": {
+    "6": {
         "question": "With regard to insulin choose the correct options.\n\nI. C - peptide is not present in mature insulin.\n\nII. The insulin produced by rDNA technology has C - peptide.\n\nIII. The pro - insulin has C-peptide \n\nIV. A - peptide and B-peptide of insulin are interconnected by disulphide bridges.",
         "a": "II and IV",
         "b": "II and III",
@@ -78,7 +67,7 @@
         "image": "none",
         "explain": "none"
     },
-    "8": {
+    "7": {
         "question": "See the Match below",
         "a": "A-III, B-IV, C-I, D-II",
         "b": "A-II, B-IV, C-I, D-III",
@@ -89,7 +78,7 @@
         "image": "57578815",
         "explain": "none"
     },
-    "9": {
+    "8": {
         "question": "Which of the following are fused in somatic hybridization involving two varieties of plants?",
         "a": "Protoplasts",
         "b": "Pollens",
@@ -100,7 +89,7 @@
         "image": "none",
         "explain": "none"
     },
-    "10": {
+    "9": {
         "question": "Three critical research areas of biotechnology include all, except",
         "a": "Improved catalysts (microbe\/enzyme",
         "b": "Optimal engineering conditions",
@@ -111,7 +100,7 @@
         "image": "none",
         "explain": "none"
     },
-    "11": {
+    "10": {
         "question": "Which of the following is NOT a major approach for food production?",
         "a": "Agro-chemical based agriculture",
         "b": "Organic agriculture",
@@ -122,7 +111,7 @@
         "image": "none",
         "explain": "none"
     },
-    "12": {
+    "11": {
         "question": "S I : The Green Revolution succeeded in tripling the food supply but yet it was not enough to feed the growing human population\n\nS II : agrochemicals are often too expensive, and further increases in yield with existing varieties are not possible using conventional breeding",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -133,7 +122,7 @@
         "image": "none",
         "explain": "none"
     },
-    "13": {
+    "12": {
         "question": "The capacity to generate a whole plant from any cell\/explant is called",
         "a": "Sometic hybrdization",
         "b": "Totipotency",
@@ -144,7 +133,7 @@
         "image": "none",
         "explain": "none"
     },
-    "14": {
+    "13": {
         "question": "A : A whole plant can be regenerated from an explant when grown on nutrient medium under sterile conditions.\n\nR : The ability of a single cell or explant to develop into an entire plant is known as totipotency.",
         "a": "Both A and R are true and R is the correct explanation of A",
         "b": "Both A and R are true but R is not the correct explanation of A",
@@ -155,7 +144,7 @@
         "image": "none",
         "explain": "none"
     },
-    "15": {
+    "14": {
         "question": "During plant tissue culture, the nutrient medium must contain",
         "a": "Only water",
         "b": "Only sucrose",
@@ -166,7 +155,7 @@
         "image": "none",
         "explain": "none"
     },
-    "16": {
+    "15": {
         "question": "S I : Micro-propagation can produce thousands of plants that are genetically identical to the original plant.\n\nS II : The plants produced through micro-propagation are called somaclones.",
         "a": "Both S I and S II are true",
         "b": "Both S I and S II are false",
@@ -177,7 +166,7 @@
         "image": "none",
         "explain": "none"
     },
-    "17": {
+    "16": {
         "question": "Which part of an infected plant is used in tissue culture to obtain virus-free plants?",
         "a": "Apical or Axillary meristem",
         "b": "Root hairs",
@@ -188,7 +177,7 @@
         "image": "none",
         "explain": "none"
     },
-    "18": {
+    "17": {
         "question": "Which of the following plants have been successfully cultured using meristem to obtain virus-free plants?",
         "a": "Banana, sugarcane and potato",
         "b": "Wheat, rice and maize",
@@ -199,7 +188,7 @@
         "image": "none",
         "explain": "none"
     },
-    "19": {
+    "18": {
         "question": "A : Fusion of protoplasts from two different plant varieties can produce a new hybrid plant.\n\nR : Protoplasts are naked cells surrounded only by a plasma membrane, allowing them to fuse easily.",
         "a": "Both A and R are true and R is the correct explanation of A",
         "b": "Both A and R are true but R is not the correct explanation of A",
@@ -210,7 +199,7 @@
         "image": "none",
         "explain": "none"
     },
-    "20": {
+    "19": {
         "question": "Fusion of tomato and potato protoplasts results in the formation of",
         "a": "Pomato",
         "b": "Topato",
@@ -221,7 +210,7 @@
         "image": "none",
         "explain": "none"
     },
-    "21": {
+    "20": {
         "question": "S I : Genetically modified crops can increase the use of fertilizers and harmful chemicals.\n\nS II : Reducing chemical usage decreases the negative impact on the environment.",
         "a": "Both S I and S II are true",
         "b": "Both S I and S II are false",
@@ -232,7 +221,7 @@
         "image": "none",
         "explain": "none"
     },
-    "22": {
+    "21": {
         "question": "Organisms such as plants, bacteria, fungi or animals whose genes have been altered by manipulation are called",
         "a": "Genetically Modified Organisms - GMO",
         "b": "Hybrids",
@@ -243,7 +232,7 @@
         "image": "none",
         "explain": "none"
     },
-    "23": {
+    "22": {
         "question": "Which of the following is NOT an advantage of genetic modification?",
         "a": "Tolerance to abiotic stress + reduced pesticide use",
         "b": "Reduced post-harvest losses + improved mineral usage",
@@ -254,7 +243,7 @@
         "image": "none",
         "explain": "none"
     },
-    "24": {
+    "23": {
         "question": "Genetic modification has been used to create tailor-made plants that supply industries with",
         "a": "Starches, fuels and pharmaceuticals",
         "b": "Only fruits and vegetables",
@@ -265,7 +254,7 @@
         "image": "none",
         "explain": "none"
     },
-    "25": {
+    "24": {
         "question": "Bt cotton variety that was developed by the introduction of the toxin gene of Bacillus thuringiensis (Bt) is resistant to",
         "a": "insect pests",
         "b": "fungal diseases",
@@ -276,7 +265,7 @@
         "image": "none",
         "explain": "none"
     },
-    "26": {
+    "25": {
         "question": "The Bt toxin gene that provides pest resistance in plants is originally obtained from",
         "a": "Bacteria",
         "b": "Virus",
@@ -287,7 +276,7 @@
         "image": "none",
         "explain": "none"
     },
-    "27": {
+    "26": {
         "question": "Bt Cotton: Some strains of Bacillus thuringiensis produce proteins that kill certain insects ... Except",
         "a": "Lepidopterans\n  - tobacco budworm, armyworm",
         "b": "Hemipterans \n   - Aphids, bugs",
@@ -298,7 +287,7 @@
         "image": "none",
         "explain": "none"
     },
-    "28": {
+    "27": {
         "question": "In Bt cotton, the Bt toxin present in plant tissue as protoxin is converted into active toxin due to",
         "a": "action of gut microorganisms",
         "b": "presence of conversion factors in insect gut",
@@ -309,7 +298,7 @@
         "image": "none",
         "explain": "none"
     },
-    "29": {
+    "28": {
         "question": "Bacillus thuringiensis produces protein crystals containing Bt toxin during its",
         "a": "Growth phase",
         "b": "Dormant phase",
@@ -320,7 +309,7 @@
         "image": "none",
         "explain": "none"
     },
-    "30": {
+    "29": {
         "question": "S I : Bt can create pores that cause cell swelling and lysis and eventually cause death of the insect.\n\nS II : most Bt toxins are insect-group specific",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -331,7 +320,7 @@
         "image": "none",
         "explain": "none"
     },
-    "31": {
+    "30": {
         "question": "A : Bt toxin is coded by a gene cryIAc named cry\n\nR : cryIAc and cryIIAb control the cotton bollworms",
         "a": "Both A & R is Correct + R is Correct Explanation of A",
         "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
@@ -339,6 +328,61 @@
         "d": "A is False & R is True",
         "answer": "b",
         "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "31": {
+        "question": "Silencing of mRNA has been used in producing transgenic plants resistant to",
+        "a": "boll worms",
+        "b": "nematodes",
+        "c": "white rusts",
+        "d": "bacterial blights",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "32": {
+        "question": "What is antisense technology?",
+        "a": "When a piece of RNA that is complementary in sequence is used to stop expression of a specific gene",
+        "b": "RNA polymerase producing DNA",
+        "c": "A cell displaying a foreign antigen used for synthesis of antigens",
+        "d": "Production of somaclonal variants in tissue cultures",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "33": {
+        "question": "The first transgenic crop was",
+        "a": "tobacco",
+        "b": "cotton",
+        "c": "pea",
+        "d": "flax.",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "34": {
+        "question": "S I : Bt toxins are insect group specific and coded by a gene cry IAc.\n\nS II: Bt toxin exists as an inactive protoxin in B. thuringiensis. However, after ingestion by the insect the inactive protoxin gets converted into active form due to acidic pH of the insect gut.",
+        "a": "Statement I is true but Statement II is false",
+        "b": "Statement I is false but Statement II is true",
+        "c": "Both Statement I and Statement II are true",
+        "d": "Both Statement I and Statement II are false",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "35": {
+        "question": "Silencing of specific mRNA is possible via RNAi because of",
+        "a": "Complementary dsRNA",
+        "b": "Inhibitory ssRNA",
+        "c": "Complementary tRNA",
+        "d": "Non-complementary ssRNA",
+        "answer": "a",
+        "pyq": "yes",
         "image": "none",
         "explain": "none"
     }
