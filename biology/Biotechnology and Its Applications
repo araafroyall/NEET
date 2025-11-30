@@ -649,5 +649,137 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "60": {
+        "question": "A single stranded DNA or RNA, tagged with a radioactive molecule is",
+        "a": "Probe",
+        "b": "Plasmid",
+        "c": "DNA Polymerase",
+        "d": "ELISA",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "61": {
+        "question": "Probe is allowed to hybridise to its complementary DNA in a clone of cells followed by detection using",
+        "a": "Autoradiography",
+        "b": "X-Ray diffraction data",
+        "c": "photographic film",
+        "d": "Radio-Active Isotope",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "62": {
+        "question": "In Autoradiography , The clone having the\r\nmutated gene will not appear on the photographic film, because",
+        "a": "The probe will not have complementarity with the mutated gene",
+        "b": "The probe is single stranded",
+        "c": "The probe will have complementarity with the mutated gene",
+        "d": "The probe is double stranded",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "63": {
+        "question": "In ELISA, infection by a pathogen can be detected by identifying",
+        "a": "Antigens or antibodies specific to the pathogen",
+        "b": "Only lipids of the pathogen",
+        "c": "Only carbohydrates of host cells",
+        "d": "Only nucleic acids of the host",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "64": {
+        "question": "Maximum 90% number of existing transgenic animals is of",
+        "a": "fish",
+        "b": "mice",
+        "c": "cow",
+        "d": "pig.",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "65": {
+        "question": "Animals whose DNA is manipulated to carry and express a foreign gene are called",
+        "a": "Transgenic animals",
+        "b": "Hybrid animals",
+        "c": "Clone animals",
+        "d": "Mutant animals",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "66": {
+        "question": "S I : The first transgenic cow, Rosie, produced human protein-enriched milk (2.4 grams per litre). \n\nS II : The milk contained the human alpha-lactalbumin and was nutritionally a more balanced product for human babies than natural cow-milk",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "67": {
+        "question": "Which body of the Government of India regulates GM research and safety of introducing GM organisms for public services?",
+        "a": "Genetic Engineering Approval Committee",
+        "b": "Research Committee on Genetic Manipulation",
+        "c": "Bio-safety committee",
+        "d": "Indian Council of Agricultural Research",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "68": {
+        "question": "Basmati rice is distinct for its unique Aroma and flavour ,\n\nhow many documented varieties of Basmati are grown in India",
+        "a": " 27",
+        "b": "30",
+        "c": "22",
+        "d": "25",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "69": {
+        "question": "A ‘new’ variety of rice was patented by a foreign \r\ncompany, though such varieties have been present in \r\nIndia for a long time. This is related to ",
+        "a": "Co-667",
+        "b": "Sharbati Sonora",
+        "c": "Lerma Rojo",
+        "d": "Basmati",
+        "answer": "d",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "70": {
+        "question": "The transgenic animals are those which have",
+        "a": "foreign RNA in all its cells",
+        "b": "foreign DNA in some of its cells",
+        "c": "foreign DNA in all its cells",
+        "d": "foreign RNA in some cells",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "71": {
+        "question": "Use of bioresources by multinational companies and organisations without authorisation from the concerned country and its people is called",
+        "a": "bio-infringement",
+        "b": "biopiracy",
+        "c": "biodegradation",
+        "d": "bioexploitation.",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
     }
 }
