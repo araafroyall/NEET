@@ -781,5 +781,27 @@
         "pyq": "yes",
         "image": "none",
         "explain": "none"
+    },
+    "72": {
+        "question": "S I : The Indian Parliament has recently cleared the second amendment of the Indian Patents Bill\n\nS II : , This bill takes patent terms of emergency provisions, research, and development initiatives.\n",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "73": {
+        "question": "S I : Several attempts have also been made to patent on Indian traditional herbal medicines, e.g., turmeric neem\n\nS II : There are an estimated 200,000 varieties of rice in India alone and 27 are not documented",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
