@@ -176,5 +176,192 @@
         "pyq": "no",
         "image": "none",
         "explain": "none"
+    },
+    "17": {
+        "question": "S I : mitosis has been divided into four stages of nuclear division (karyokinesis)\n\nS II : M phase is not dramatic period of the cell cycle,",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "18": {
+        "question": "The complete disintegration of the nuclear envelope marks the start of the second phase of mitosis known as",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "19": {
+        "question": "Wrong statement for The Prophase ",
+        "a": "Initiation of condensation of chromosomal material",
+        "b": "Chromosomes are of two chromatids",
+        "c": "Centrosome\/Centriole move towards opposite poles",
+        "d": "Cells at the end of prophase, when viewed under the\r\nmicroscope, shows golgi complexes, endoplasmic\r\nreticulum, nucleolus and the nuclear envelope",
+        "answer": "d",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "20": {
+        "question": "which is the first stage of karyokinesis of mitosis follows the S and G₂ phases of interphase",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "21": {
+        "question": "In the S and G2 phases, the new DNA molecules formed are not distinct but intertwined in",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "22": {
+        "question": "The chromosomal material becomes untangled during the process of chromatin condensation",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "23": {
+        "question": "Condensation of chromosomes is completed at",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "24": {
+        "question": "Spindle fibres attach to kinetochores of chromosomes in",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "25": {
+        "question": "Spindle fibres attach on to",
+        "a": "centromere of the chromosome",
+        "b": "kinetosome of the chromosome",
+        "c": "telomere of the chromosome",
+        "d": "kinetochore of the chromosome.",
+        "answer": "d",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "26": {
+        "question": "Which of the following represents the best stage to view the shape, size and number of chromosomes?",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Interphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "27": {
+        "question": "S I : Small disc-shaped structures at the surface of the centromeres are called kinetochores.\n\nS II : kinetochores serve as the sites of attachment of spindle fibres to the chromosomes",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "28": {
+        "question": "the stage at which morphology of chromosomes is most easily studied",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "29": {
+        "question": "Number of chromatids at metaphase is…",
+        "a": "two each in mitosis and meiosis",
+        "b": "two in mitosis and one in meiosis",
+        "c": "two in mitosis and four in meiosis",
+        "d": "one in mitosis and two in meiosis",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "30": {
+        "question": "The Image shows",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "57696044",
+        "explain": "none"
+    },
+    "31": {
+        "question": "Chromosomes are moved to spindle equator in",
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "32": {
+        "question": "During metaphase, chromosomes",
+        "a": "Align at the equator of the cell",
+        "b": "Remain scattered randomly",
+        "c": "Move to opposite poles",
+        "d": "Disappear completely",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "33": {
+        "question": "In metaphase, each chromosome has",
+        "a": "Both chromatids attached to spindle fibres from the same pole",
+        "b": "One chromatid attached to each pole through its kinetochore",
+        "c": "No spindle fibre attachment",
+        "d": "Only the centromere attached to one pole",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
     }
 }
