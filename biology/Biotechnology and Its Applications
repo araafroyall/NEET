@@ -486,17 +486,6 @@
         "explain": "none"
     },
     "45": {
-        "question": "With regard to insulin choose the correct options. \n\nI. C - peptide is not present in mature insulin.\n\nII. The insulin produced by rDNA technology has C - peptide.\n\nIII. The pro - insulin has C-peptide\n\nIV. A - peptide and B-peptide of insulin are interconnected by disulphide bridges.",
-        "a": "II and IV",
-        "b": "II and III",
-        "c": "I, III and IV",
-        "d": "I and IV",
-        "answer": "c",
-        "pyq": "yes",
-        "image": "none",
-        "explain": "none"
-    },
-    "46": {
         "question": "The insulin produced by technology of",
         "a": "rDNA",
         "b": "cRNA",
@@ -507,7 +496,7 @@
         "image": "none",
         "explain": "none"
     },
-    "47": {
+    "46": {
         "question": "A : Eli Lilly an American company prepared A and B, DNA chains of human insulin and introduced them in E. coli to produce insulin chains\n\nR : Chains A and B were produced separately, extracted and combined by creating disulfide bonds to form human insulin",
         "a": "Both A & R is Correct + R is Correct Explanation of A",
         "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
@@ -518,7 +507,7 @@
         "image": "none",
         "explain": "none"
     },
-    "48": {
+    "47": {
         "question": "When gene targeting involving gene amplification is attempted in an individual's tissue to treat disease, it is known as",
         "a": "biopiracy",
         "b": "gene therapy",
@@ -529,7 +518,7 @@
         "image": "none",
         "explain": "none"
     },
-    "49": {
+    "48": {
         "question": "Which kind of therapy was given in 1990 to a 4 year old girl with adenosine deaminase (ADA) deficiency?",
         "a": "Gene therapy",
         "b": "Chemotherapy",
@@ -540,7 +529,7 @@
         "image": "none",
         "explain": "none"
     },
-    "50": {
+    "49": {
         "question": "The first clinical gene therapy was given for treating",
         "a": "diabetes mellitus",
         "b": "chicken pox",
@@ -551,7 +540,7 @@
         "image": "none",
         "explain": "none"
     },
-    "51": {
+    "50": {
         "question": "The genetic defect–adenosine deaminase (ADA) deficiency may be cured permanently by",
         "a": "administering adenosine deaminase activators",
         "b": "introducing bone marrow cells producing ADA into cells at early embryonic stages",
@@ -562,7 +551,7 @@
         "image": "none",
         "explain": "none"
     },
-    "52": {
+    "51": {
         "question": "In gene therapy of Adenosine Deaminase (ADA) deficiency, the patient requires periodic infusion of genetically engineered lymphocytes because",
         "a": "Retroviral vector is introduced into these lymphocytes.",
         "b": "Gene isolated from marrow cells. Pro-ducing ADA is introduced into cells at embryonic stages",
@@ -573,7 +562,7 @@
         "image": "none",
         "explain": "none"
     },
-    "53": {
+    "52": {
         "question": "Adenosine deaminase (ADA) deficiency is caused due to",
         "a": "Deletion of its gene leading to immune system failure",
         "b": "Deletion of insulin gene affecting blood sugar regulation",
@@ -584,7 +573,7 @@
         "image": "none",
         "explain": "none"
     },
-    "54": {
+    "53": {
         "question": "Arrange the steps of ADA gene therapy in the correct order: \n\n1. Introduction of functional ADA cDNA using a retroviral vector\n\n2. Lymphocytes grown in culture outside the body\n\n3. Lymphocytes returned to the patient\n\n4. Lymphocytes isolated from the patient’s blood",
         "a": "4 → 2 → 1 → 3",
         "b": "2 → 4 → 1 → 3",
@@ -595,7 +584,7 @@
         "image": "none",
         "explain": "none"
     },
-    "55": {
+    "54": {
         "question": "Which vector is used to introduce the therapeutic gene into lymphocytes during ADA gene therapy?",
         "a": "ADA cDNA using a retroviral vector",
         "b": "ADA rDNA using a plasmid vector",
@@ -606,7 +595,7 @@
         "image": "none",
         "explain": "none"
     },
-    "56": {
+    "55": {
         "question": "Which one of the following techniques does not serve the purpose of early diagnosis of a disease for its early treatment",
         "a": "Serum and Urine analysis",
         "b": "Polymerase Chain Reaction (PCR) technique ",
@@ -617,7 +606,7 @@
         "image": "none",
         "explain": "none"
     },
-    "57": {
+    "56": {
         "question": "Very low concentrations of bacteria or viruses, even before symptoms appear, can be detected using",
         "a": "PCR amplification of their nucleic acids",
         "b": "Microscopy of stained samples",
@@ -628,7 +617,7 @@
         "image": "none",
         "explain": "none"
     },
-    "58": {
+    "57": {
         "question": "S I : PCR is routinely used to detect HIV in suspected AIDS patients.\n\nS II : PCR can also detect mutations in genes in suspected cancer patients. Options",
         "a": "Both S I and S II are true",
         "b": "Both S I and S II are false",
@@ -639,7 +628,7 @@
         "image": "none",
         "explain": "none"
     },
-    "59": {
+    "58": {
         "question": "Which can detect \n\n• Low concentration\n• HIV\n• Mutations\n• AIDS",
         "a": "PCR",
         "b": "ELISA",
@@ -650,7 +639,7 @@
         "image": "none",
         "explain": "none"
     },
-    "60": {
+    "59": {
         "question": "A single stranded DNA or RNA, tagged with a radioactive molecule is",
         "a": "Probe",
         "b": "Plasmid",
@@ -661,7 +650,7 @@
         "image": "none",
         "explain": "none"
     },
-    "61": {
+    "60": {
         "question": "Probe is allowed to hybridise to its complementary DNA in a clone of cells followed by detection using",
         "a": "Autoradiography",
         "b": "X-Ray diffraction data",
@@ -672,7 +661,7 @@
         "image": "none",
         "explain": "none"
     },
-    "62": {
+    "61": {
         "question": "In Autoradiography , The clone having the mutated gene will not appear on the photographic film, because",
         "a": "The probe will not have complementarity with the mutated gene",
         "b": "The probe is single stranded",
@@ -683,7 +672,7 @@
         "image": "none",
         "explain": "none"
     },
-    "63": {
+    "62": {
         "question": "In ELISA, infection by a pathogen can be detected by identifying",
         "a": "Antigens or antibodies specific to the pathogen",
         "b": "Only lipids of the pathogen",
@@ -694,7 +683,7 @@
         "image": "none",
         "explain": "none"
     },
-    "64": {
+    "63": {
         "question": "Maximum 90% number of existing transgenic animals is of",
         "a": "fish",
         "b": "mice",
@@ -705,7 +694,7 @@
         "image": "none",
         "explain": "none"
     },
-    "65": {
+    "64": {
         "question": "Animals whose DNA is manipulated to carry and express a foreign gene are called",
         "a": "Transgenic animals",
         "b": "Hybrid animals",
@@ -716,7 +705,7 @@
         "image": "none",
         "explain": "none"
     },
-    "66": {
+    "65": {
         "question": "S I : The first transgenic cow, Rosie, produced human protein-enriched milk (2.4 grams per litre). \n\nS II : The milk contained the human alpha-lactalbumin and was nutritionally a more balanced product for human babies than natural cow-milk",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -727,7 +716,7 @@
         "image": "none",
         "explain": "none"
     },
-    "67": {
+    "66": {
         "question": "Which body of the Government of India regulates GM research and safety of introducing GM organisms for public services?",
         "a": "Genetic Engineering Approval Committee",
         "b": "Research Committee on Genetic Manipulation",
@@ -738,7 +727,7 @@
         "image": "none",
         "explain": "none"
     },
-    "68": {
+    "67": {
         "question": "Basmati rice is distinct for its unique Aroma and flavour ,\n\nhow many documented varieties of Basmati are grown in India",
         "a": " 27",
         "b": "30",
@@ -749,7 +738,7 @@
         "image": "none",
         "explain": "none"
     },
-    "69": {
+    "68": {
         "question": "A ‘new’ variety of rice was patented by a foreign \r\ncompany, though such varieties have been present in \r\nIndia for a long time. This is related to ",
         "a": "Co-667",
         "b": "Sharbati Sonora",
@@ -760,7 +749,7 @@
         "image": "none",
         "explain": "none"
     },
-    "70": {
+    "69": {
         "question": "The transgenic animals are those which have",
         "a": "foreign RNA in all its cells",
         "b": "foreign DNA in some of its cells",
@@ -771,7 +760,7 @@
         "image": "none",
         "explain": "none"
     },
-    "71": {
+    "70": {
         "question": "Use of bioresources by multinational companies and organisations without authorisation from the concerned country and its people is called",
         "a": "bio-infringement",
         "b": "biopiracy",
@@ -782,7 +771,7 @@
         "image": "none",
         "explain": "none"
     },
-    "72": {
+    "71": {
         "question": "S I : The Indian Parliament has recently cleared the second amendment of the Indian Patents Bill\n\nS II : , This bill takes patent terms of emergency provisions, research, and development initiatives.\n",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
@@ -793,7 +782,7 @@
         "image": "none",
         "explain": "none"
     },
-    "73": {
+    "72": {
         "question": "S I : Several attempts have also been made to patent on Indian traditional herbal medicines, e.g., turmeric neem\n\nS II : There are an estimated 200,000 varieties of rice in India alone and 27 are not documented",
         "a": "Both Statements are True",
         "b": "Statement I is True & Statement II is False",
