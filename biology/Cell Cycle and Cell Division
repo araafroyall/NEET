@@ -1,4 +1,180 @@
 {
     "name": "Cell Cycle and Cell Division",
-    "number": "XX"
+    "number": "XX",
+    "1": {
+        "question": "S I : Cell growth (in terms of cytoplasmic increase) is a continuous process\n\nS II : The Interphase represents the phase when the actual cell division or mitosis occurs",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "2": {
+        "question": "The approx time of cell division timing of",
+        "a": "Human cell - 24 hour\n\nYeast - 90 min",
+        "b": "Human cell - 1 hour\n\nYeast - 20 min",
+        "c": "Human cell - 6 hour\n\nYeast - 20 min",
+        "d": "Human cell - 23 hour\n\nYeast - 30 min",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "3": {
+        "question": "In 24 hour of the cell cycle of a human cell,\ncell division proper lasts for only ",
+        "a": "about an hour",
+        "b": "about 30 minute",
+        "c": "about 6 minute",
+        "d": "about 90 minute",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "4": {
+        "question": "The interphase lasts more than ____ of the duration of cell cycle",
+        "a": "95%",
+        "b": "90%",
+        "c": "65%",
+        "d": "99&",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "5": {
+        "question": "In The M Phase\n\nS I :  it starts with the nuclear division, corresponding to the separation of daughter chromosomes (karyokinesis) \n\nS II : It ends with division of cytoplasm (cytokinesis)",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "6": {
+        "question": "S I : Interphase is sometimes called the resting phase.\n\nS II : During interphase, the cell prepares for division through growth and DNA replication.",
+        "a": "Both S I and S II are true",
+        "b": "Both S I and S II are false",
+        "c": "S I is true but S II is false",
+        "d": "S I is false but S II is true",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "7": {
+        "question": "In Which phase, the cell is metabolically active and\r\ncontinuously grows but does not replicate its DNA",
+        "a": "G₁",
+        "b": "G₂",
+        "c": "S",
+        "d": "M",
+        "answer": "a",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "8": {
+        "question": "During the S phase of Cell Cycle which event does not occur",
+        "a": "DNA Synthesis or DNA Replication",
+        "b": "DNA Content gets doubled \nC to 2C",
+        "c": "Chromosome number doubles",
+        "d": "if the cell had diploid or 2n at G1, even after S phase the number of chromosomes remains the same, i.e., 2n.",
+        "answer": "c",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "9": {
+        "question": "In which stage of cell cycle, DNA replication occurs?",
+        "a": "G1-phase",
+        "b": "S-phase",
+        "c": "G2-phase",
+        "d": "M-phase",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "10": {
+        "question": "The Correct statement is",
+        "a": "During the G2 phase, proteins are synthesised in preparation for mitosis while cell growth continues.",
+        "b": "In G1 phase , the cell is metabolically Inactive",
+        "c": "Centriole duplicate in Nucleus",
+        "d": "DNA Replicate in Cytoplasm",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "11": {
+        "question": "S I : DNA replication begins in the nucleus.\n\nS II : Centriole duplicates in the cytoplasm.",
+        "a": "Both Statements are True",
+        "b": "Statement I is True & Statement II is False",
+        "c": "Statement I is False & Statement II is True",
+        "d": "Both Statements are False",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "12": {
+        "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called the quiescent stage (G₀). This process occurs at the end of",
+        "a": "M phase",
+        "b": "G1 phase",
+        "c": "S phase",
+        "d": "G2 phase.",
+        "answer": "b",
+        "pyq": "yes",
+        "image": "none",
+        "explain": "none"
+    },
+    "13": {
+        "question": "A : Some cells in the adult animals do not appear to exhibit division (e.g., heart cells)\n\nR : Many other cells divide only occasionally, as needed to replace cells that have been lost because of injury or cell death",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "b",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "14": {
+        "question": "the plants can show mitotic divisions in",
+        "a": "both haploid and diploid cells",
+        "b": "haploid cells only",
+        "c": "diploid cells only",
+        "d": "somatic cells only",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "15": {
+        "question": "Mitosis normally occurs only in diploid somatic cells. \n\nWhich of the following is an exception where haploid cells divide by mitosis?",
+        "a": "Male honey bees",
+        "b": "Human sperm cells",
+        "c": "Moss spores",
+        "d": "Bacterial cells",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    },
+    "16": {
+        "question": "A : Mitosis is also called as equational division.\n\nR : The number of Chromosomes in progeny is same as in parent cells",
+        "a": "Both A & R is Correct + R is Correct Explanation of A",
+        "b": "Both A & R is Correct + R is NOT Correct Explanation of A",
+        "c": "A is True & R is False",
+        "d": "A is False & R is True",
+        "answer": "a",
+        "pyq": "no",
+        "image": "none",
+        "explain": "none"
+    }
 }
